@@ -1,0 +1,34 @@
+1. Save accession IDs of all genomes above 50% coverage into a text file (from reading and extracting data in R)
+2. Extract all sequences above 50% from full fasta file for specific virus
+
+e.g: seqkit grep -r -f Dengue_global_genomes_above50_accessions.txt VIPR_dengue/595875507518-GenomicFastaResults.fasta > Dengue_global_genomes_above50_sequences.fasta
+
+3. Align sequences
+	command: mafft Dengue_global_genomes_above50_sequences.fasta > Dengue_global_genomes_above50_sequences_aln_mafft.fasta
+	Above is MSA so don't require a reference genome (=can align all DENV types at once?)
+	
+
+4. Build preliminary phylogenetic tree with iqtree
+
+	Initial model used = TN+F+G4 (later should search for most appropriate model using Model Finder)
+	Initial bootstrap = 100
+	Command: iqtree -s DENV2_global_genomes_above50_sequences_aln_nextalign.fasta -m TN+F+G4 -bb 1000
+	
+
+3a. Alternatively, do separate Phylogenetics for each DENV type 1-4. Subset sequence lists then align with each reference.
+	DENV2=3452 sequences
+		mafft DENV2_global_genomes_above50_sequences.fasta > DENV2_global_genomes_above50_sequences_aln_mafft.fasta
+		nextalign -i DENV2_global_genomes_above50_sequences.fasta -r DENV2_ref.fasta -o DENV2_global_genomes_above50_sequences_aln_nextalign.fasta (works better but lose some sequences due to being unable to align (too many insertions), n=3445)
+		- look at alignment in AliView - seems okay
+
+4a. Build separate phylogenetic ML tree for each DENV type
+	i) iqtree -s DENV2_global_genomes_above50_sequences_aln_nextalign.fasta - this runs Model Finder - takes a very long time
+
+	ii) Initial model used = TN+F+G4 (later should search for most appropriate model using Model Finder)
+	Initial bootstrap = 100
+	Command: iqtree -s DENV2_global_genomes_above50_sequences_aln_nextalign.fasta -m TN+F+G4 -bb 1000
+
+	iii) Nextstrain Dengue pipeline
+		 git clone https://github.com/nextstrain/dengue.git
+		Test run with example data - worked well
+		

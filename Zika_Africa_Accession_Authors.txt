@@ -1,0 +1,195 @@
+KF383102	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KU955594	Ladner,J.T., Wiley,M.R., Prieto,K., Yasuda,C.Y., Nagle,E., Kasper,M.R., Reyes,D., Vasilakis,N., Heang,V., Weaver,S.C., Haddow,A., Tesh,R.B., Sovann,L. and Palacios,G.
+KX377335	Yun,S.-I., Song,B.-H., Frank,J.C., Julander,J.G., Polejaeva,I.A., Davies,C.J., White,K.L. and Lee,Y.-M.
+KX601169	Shabman,R., Puri,V., Dilley,K., Fedorova,N., Shrivastava,S., Amedeo,P., Williams,M., Hu,L. and Suthar,M.S.
+KU963573	Shabman,R., Shilts,M., Puri,V., Dilley,K., Fedorova,N., Stockwell,T., Shrivastava,S., Amedeo,P., Williams,M., Hu,L., Das,S.R. and Rashid,S.
+MN755624	Coulter,F.J.
+
+KY288905	Lewandowski,K., Miles,R., Liberty,L. and Pullan,S.
+
+KU963574	Shabman,R., Shilts,M., Puri,V., Dilley,K., Fedorova,N., Stockwell,T., Shrivastava,S., Amedeo,P., Williams,M., Hu,L., Das,S.R. and Rashid,S.
+MN755617	Coulter,F.J.
+
+MF510857	Collins,N.D., Widen,S.G., Tesh,R.B., Li,L., Shi,P.-Y., Wood,T.G.
+
+KX198134	Shabman,R., Shilts,M., Puri,V., Dilley,K., Fedorova,N., Shrivastava,S., Amedeo,P., Williams,M., Hu,L., Das,S.R. and Rashid,S.
+KY348860	Shabman,R., Puri,V., Dilley,K., Fedorova,N., Shrivastava,S., Amedeo,P., Williams,M., Hu,L., Pickett,B.E. and Rashid,S.
+KX601166	Shabman,R., Puri,V., Dilley,K., Fedorova,N., Shrivastava,S., Amedeo,P., Williams,M., Hu,L. and Suthar,M.S.
+MN755616	Coulter,F.J.
+
+KU955591	Ladner,J.T., Wiley,M.R., Prieto,K., Yasuda,C.Y., Nagle,E., Kasper,M.R., Reyes,D., Vasilakis,N., Heang,V., Weaver,S.C., Haddow,A., Tesh,R.B., Sovann,L. and Palacios,G.
+KU955592	Ladner,J.T., Wiley,M.R., Prieto,K., Yasuda,C.Y., Nagle,E., Kasper,M.R., Reyes,D., Vasilakis,N., Heang,V., Weaver,S.C., Haddow,A., Tesh,R.B., Sovann,L. and Palacios,G.
+KU955595	Ladner,J.T., Wiley,M.R., Prieto,K., Yasuda,C.Y., Nagle,E., Kasper,M.R., Reyes,D., Vasilakis,N., Heang,V., Weaver,S.C., Haddow,A., Tesh,R.B., Sovann,L. and Palacios,G.
+MF629799	Herrera,B.B., Chang,C.A., Hamel,D.J., Mboup,S., Ndiaye,D., Imade,G., Okpokwu,J., Agbaji,O., Bei,A.K. and Kanki,P.J.
+MF629796	Herrera,B.B., Chang,C.A., Hamel,D.J., Mboup,S., Ndiaye,D., Imade,G., Okpokwu,J., Agbaji,O., Bei,A.K. and Kanki,P.J.
+MT482106	Fagre,A.C. and Kading,R.C.
+
+MT482107	Fagre,A.C. and Kading,R.C.
+
+MT482108	Fagre,A.C. and Kading,R.C.
+
+MF629797	Herrera,B.B., Chang,C.A., Hamel,D.J., Mboup,S., Ndiaye,D., Imade,G., Okpokwu,J., Agbaji,O., Bei,A.K. and Kanki,P.J.
+MF629798	Herrera,B.B., Chang,C.A., Hamel,D.J., Mboup,S., Ndiaye,D., Imade,G., Okpokwu,J., Agbaji,O., Bei,A.K. and Kanki,P.J.
+MK241416	Simon-Loriere,E., Prot,M., Sall,A.A., Faye,O. and Faye,O.
+
+MK241415	Simon-Loriere,E., Prot,M., Sall,A.A., Faye,O. and Faye,O.
+
+MK241417	Simon-Loriere,E., Prot,M., Sall,A.A., Faye,O. and Faye,O.
+
+MK105975	Green,R. Jr., Esser-Nobis,K. and Gale,M. Jr.
+
+MF926508	Mathe,P., Obishakin,E., Egah,D. and Panning,M.
+
+MK829152	Hill,S.C., Vasconcelos,J., Neto,Z., Jandondo,D., Ze-Ze,L., Aguiar,R.S., Xavier,J., Theze,J., Mirandela,M., Candido,A.L.M., Vaz,F., dos Santos Sebastiao,C., Wu,C.-H., Kraemer,M.U.G., Melo,A., Schamber-Reis,B.L.F., de Azevedo,G.S., Tanuri,A., Higa,L.M., Clemente,C., da Silva,S.P., da Silva Candido,D., Claro,I.M., Quibuco,D., Domingos,C., Pocongo,B., Watts,A.G., Khan,K., Alcantara,L.C.J., Sabino,E.C., Lackritz,E., Pybus,O.G., Alves,M.-J., Afonso,J. and Faria,N.R.
+MK829153	Hill,S.C., Vasconcelos,J., Neto,Z., Jandondo,D., Ze-Ze,L., Aguiar,R.S., Xavier,J., Theze,J., Mirandela,M., Candido,A.L.M., Vaz,F., dos Santos Sebastiao,C., Wu,C.-H., Kraemer,M.U.G., Melo,A., Schamber-Reis,B.L.F., de Azevedo,G.S., Tanuri,A., Higa,L.M., Clemente,C., da Silva,S.P., da Silva Candido,D., Claro,I.M., Quibuco,D., Domingos,C., Pocongo,B., Watts,A.G., Khan,K., Alcantara,L.C.J., Sabino,E.C., Lackritz,E., Pybus,O.G., Alves,M.-J., Afonso,J. and Faria,N.R.
+MT084112	Oderinde,B.S., Mora-Cardenas,E., Carletti,T., Baba,M.M. and Marcello,A.
+MN025403	Bayandin,R.B., Gladysheva,A.V., Karan,L.S., Makenov,M.T., Shvalov,A.N., Shipovalov,A.V., Skarnovich,M.O., Svyatchenko,V.A., Ternovoy,V.A. and Loktev,V.B.
+OL414716	Gladysheva,A.V., Bayandin,R.B., Svyatchenko,V.A., Shvalov,A.N., Ternovoi,V.A. and Loktev,V.B.
+LC707381	Ushijima,Y., Abe,H., Mbadinga,M.J.V.M., Nguema-Ondo,G., Bikangui,R., Agnandji,S.T., Lell,B. and Yasuda,J.
+LC707380	Ushijima,Y., Abe,H., Mbadinga,M.J.V.M., Nguema-Ondo,G., Bikangui,R., Agnandji,S.T., Lell,B. and Yasuda,J.
+KF268949	Berthet,N., Nakoune,E., Selekon,B., Descorps-Declere,S., Gessain,A., Manuguerra,J.-C. and Kazanji,M.
+KF383119	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383117	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+DQ859059	Brisbarre,N., Moureau,G., Grard,G. and de Lamballerie,X.
+
+KF383115	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+LC002520	Tajima,S., Kotaki,A. and Takasaki,T.
+
+AY326412	Mutebi,J.-P. and Barrett,A.D.T.
+
+AY632535	Kuno,G. and Chang,G.-J.J.
+
+KF268950	Berthet,N., Nakoune,E., Selekon,B., Descorps-Declere,S., Gessain,A., Manuguerra,J.-C. and Kazanji,M.
+KF383120	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383116	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383118	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+EU074027	Moureau,G., Temmam,S., Charrel,R., Grard,G. and de Lamballerie,X.
+
+NC_012532	Kuno,G., Chang,G.-J.J. and Tsuchiya,K.R.
+
+HQ234498	Haddow,A.D. and Schuh,A.J.
+
+KU720415	Greninger,A., Yagi,S., Pepper,G. and Jerome,K.
+
+KX421193	Wang,C., Balmaseda,A., Saborio,S., Kuan,G. and Harris,E.
+
+KY989511	Pattnaik,A.K. and Annamalai,A.S.
+
+MW143017	Antonios,F., Bletsa,M., Kafetzopoulou,L., Boonen,I., Lemey,P., Amat,M., Pannecouque,C. and Schols,D.
+MW143018	Antonios,F., Bletsa,M., Kafetzopoulou,L., Boonen,I., Lemey,P., Amat,M., Pannecouque,C. and Schols,D.
+MW143019	Antonios,F., Bletsa,M., Kafetzopoulou,L., Boonen,I., Lemey,P., Amat,M., Pannecouque,C. and Schols,D.
+MW143020	Antonios,F., Bletsa,M., Kafetzopoulou,L., Boonen,I., Lemey,P., Amat,M., Pannecouque,C. and Schols,D.
+MW143021	Antonios,F., Bletsa,M., Kafetzopoulou,L., Boonen,I., Lemey,P., Amat,M., Pannecouque,C. and Schols,D.
+MW143022	Antonios,F., Bletsa,M., Kafetzopoulou,L., Boonen,I., Lemey,P., Amat,M., Pannecouque,C. and Schols,D.
+KF383035	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383070	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383049	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+HQ234500	Haddow,A.D. and Schuh,A.J.
+
+KF383085	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383048	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383031	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF268948	Berthet,N., Nakoune,E., Selekon,B., Descorps-Declere,S., Gessain,A., Manuguerra,J.-C. and Kazanji,M.
+KF383033	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383051	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383087	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383083	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383050	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383034	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383114	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383032	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383088	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383082	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383020	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383113	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383109	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383078	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383030	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+HQ234501	Haddow,A.D. and Schuh,A.J.
+
+MK028860	Rios,M., Fares-Gusmao,R., Volkova,E., Grinev,A., Assis,F., Chancey,C., Ok,S., Rocha,B., Sippert,E., Zhao,X., Nagaraj,S., Vavikolanu,K., Nadendla,S., Sadzewicz,L., Tallon,L.J. and Sichtig,H.
+KY576904	Anfasa,F., Siegers,J.Y., Raj,S.V., Salinas,S., Simonin,Y., Koopmans,M.P.G., Haagmans,B. and van Riel,D.
+KF383081	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383043	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383107	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383044	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383111	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383108	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383075	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383080	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383110	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383106	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383045	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383079	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383077	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383112	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383040	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383042	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383076	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383041	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383084	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383047	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383039	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383037	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383074	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383105	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383025	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383027	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383098	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383022	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383068	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383065	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383097	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383023	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383064	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383099	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383066	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383026	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383069	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383101	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383063	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383067	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383024	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383100	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383019	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383061	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383095	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383062	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383021	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383096	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383038	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383086	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383071	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383036	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383046	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383072	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383103	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383104	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383073	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383059	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383060	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383094	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383018	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383054	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383058	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383091	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383017	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383093	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383056	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383092	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383015	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383057	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383055	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383016	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383053	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383089	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383052	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383029	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383028	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF383090	Faye,O., Freire,C.C.M., Chen,R., Iamarino,A., Faye,O., Oliveira,J.V.C., Diallo,M., Weaver,S.C., Zanotto,P.M.A. and Sall,A.A.
+KF270887	Grard,G., Caron,M. and Leroy,E.
+
+KF270886	Grard,G., Caron,M. and Leroy,E.
+
+MT482109	Fagre,A.C. and Kading,R.C.
+

@@ -1,0 +1,603 @@
+EU003591	Vasilakis,N., Tesh,R.B. and Weaver,S.C.
+
+AB549332	Takasaki,T., Tajima,S. and Kotaki,A.
+
+KX812502	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+KX812503	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+KF184975	Sessions,O.M., Hou,Y., Meltzer,E., Schwartz,E., Gubler,D.J. and Wilder-Smith,A.
+KX812511	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+KX812509	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+KX812510	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+KX812501	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+KX812508	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+MN577551	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MN577559	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+KX812500	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+KX812506	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+MN577560	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MN577561	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MN577562	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MN577563	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+KM892493	Jaswant,G., Mosha,F., Makange,M.R., Riwa,C. and Misinzo,G.
+
+KX812504	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+KX812507	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+KX812505	Konongoi,S.L., Ofula,V., Nyunja,A.O. and Sang,R.
+
+MN577565	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+AB908053	Parreira,R. and Centeno-Lima,S.
+
+KM892496	Jaswant,G., Mosha,F., Makange,M.R., Riwa,C. and Misinzo,G.
+
+KM892495	Jaswant,G., Mosha,F., Makange,M.R., Riwa,C. and Misinzo,G.
+
+KM892494	Jaswant,G., Mosha,F., Makange,M.R., Riwa,C. and Misinzo,G.
+
+MN577552	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MZ520905	Navero-Castillejos,J., Peiro-Mestres,A., Gonzalo-Abril,V. and Martinez-Yoldi,M.J.
+KT288898	Meschi,S., Carletti,F., Vairo,F., De Nardo,P., Castilletti,C., Nicastri,E., Ippolito,G., Capobianchi,M.R., Colavita,F., Mhina,A., Riwa,C., Quartu,S., Zaccaro,P., Di Caro,A. and Oriyo,N.
+KT288895	Meschi,S., Carletti,F., Vairo,F., De Nardo,P., Castilletti,C., Nicastri,E., Ippolito,G., Capobianchi,M.R., Colavita,F., Mhina,A., Riwa,C., Quartu,S., Zaccaro,P., Di Caro,A. and Oriyo,N.
+KT288896	Meschi,S., Carletti,F., Vairo,F., De Nardo,P., Castilletti,C., Nicastri,E., Ippolito,G., Capobianchi,M.R., Colavita,F., Mhina,A., Riwa,C., Quartu,S., Zaccaro,P., Di Caro,A. and Oriyo,N.
+KT288897	Meschi,S., Carletti,F., Vairo,F., De Nardo,P., Castilletti,C., Nicastri,E., Ippolito,G., Capobianchi,M.R., Colavita,F., Mhina,A., Riwa,C., Quartu,S., Zaccaro,P., Di Caro,A. and Oriyo,N.
+KT288901	Meschi,S., Carletti,F., Vairo,F., De Nardo,P., Castilletti,C., Nicastri,E., Ippolito,G., Capobianchi,M.R., Colavita,F., Mhina,A., Riwa,C., Quartu,S., Zaccaro,P., Di Caro,A. and Oriyo,N.
+KT288900	Meschi,S., Carletti,F., Vairo,F., De Nardo,P., Castilletti,C., Nicastri,E., Ippolito,G., Capobianchi,M.R., Colavita,F., Mhina,A., Riwa,C., Quartu,S., Zaccaro,P., Di Caro,A. and Oriyo,N.
+KT288902	Carletti,F., Meschi,S., Vairo,F., De Nardo,P., Castilletti,C., Nicastri,E., Ippolito,G., Capobianchi,M.R., Colavita,F., Mhina,A., Riwa,C., Quartu,S., Zaccaro,P. and Di Caro,A.
+KT288899	Meschi,S., Carletti,F., Vairo,F., De Nardo,P., Castilletti,C., Nicastri,E., Ippolito,G., Capobianchi,M.R., Colavita,F., Mhina,A., Riwa,C., Quartu,S., Zaccaro,P., Di Caro,A. and Oriyo,N.
+MG189962	Meschi,S., Vairo,F., Mboera,L.E.G., De Nardo,P., Oriyo,N.M., Colavita,F., Quartu,S., Caglioti,C., Zaccaro,P., Carletti,F., Capobianchi,M.R., Castilletti,C., Di Caro,A., Malecela,M.N. and Ippolito,G.
+KU886233	Shija,F., Jaswant,G., Kifaro,E.G., Shao,E.R., Kavishe,R.A., Nyombi,B.M., Mosha,F., Mboera,L.G. and Misinzo,G.
+MN577564	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MZ857213	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MH456899	Kamau,E., Agoti,C.N., Ngoi,J.M., Gitonga,J., Cotten,M., Delwart,E., Sanders,E. and Warimwe,G.
+MH456894	Kamau,E., Agoti,C.N., Ngoi,J.M., Gitonga,J., Cotten,M., Delwart,E., Sanders,E. and Warimwe,G.
+MH456896	Kamau,E., Agoti,C.N., Ngoi,J.M., Gitonga,J., Cotten,M., Delwart,E., Sanders,E. and Warimwe,G.
+MH456898	Kamau,E., Agoti,C.N., Ngoi,J.M., Gitonga,J., Cotten,M., Delwart,E., Sanders,E. and Warimwe,G.
+MT076932	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076933	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MH456895	Kamau,E., Agoti,C.N., Ngoi,J.M., Gitonga,J., Cotten,M., Delwart,E., Sanders,E. and Warimwe,G.
+MH456900	Kamau,E., Agoti,C.N., Ngoi,J.M., Gitonga,J., Cotten,M., Delwart,E., Sanders,E. and Warimwe,G.
+MZ857207	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MH456897	Kamau,E., Agoti,C.N., Ngoi,J.M., Gitonga,J., Cotten,M., Delwart,E., Sanders,E. and Warimwe,G.
+MH456892	Kamau,E., Agoti,C.N., Ngoi,J.M., Gitonga,J., Cotten,M., Delwart,E., Sanders,E. and Warimwe,G.
+MT981492	Fourie,T.B., Grard,G. and Leparc-Goffart,I.
+
+MT981491	Fourie,T.B., Grard,G. and Leparc-Goffart,I.
+
+MT981494	Fourie,T.B., Grard,G. and Leparc-Goffart,I.
+
+MT981511	Fourie,T.B., Dubot-Peres,A., Grard,G. and Leparc-Goffart,I.
+
+MT981512	Fourie,T.B., Dubot-Peres,A., Grard,G. and Leparc-Goffart,I.
+
+MT981513	Fourie,T.B., Grard,G. and Leparc-Goffart,I.
+
+MT981514	Fourie,T.B., Dubot-Peres,A., Grard,G. and Leparc-Goffart,I.
+
+MH456893	Kamau,E., Agoti,C.N., Ngoi,J.M., Gitonga,J., Cotten,M., Delwart,E., Sanders,E. and Warimwe,G.
+MT076937	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076955	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076934	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076935	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076947	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076939	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076948	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076951	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076938	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076940	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076949	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076950	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076952	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076953	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076954	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076941	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MW243063	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MK940790	Dieng,I.
+
+MK940791	Dieng,I.
+
+MT076936	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076960	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076961	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076942	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076944	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076945	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076962	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+OM679998	dimore,g.G.
+
+MT076943	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076956	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076957	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT076958	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+LC379198	Abe,H., Ushijima,Y., Loembe,M.M., Agnandji,S.T., Kurosaki,Y., Lell,B. and Yasuda,J.
+MK473384	Masika,M.M., Korhonen,E.M., Smura,T., Uusitalo,R., Mwaengo,D., Jaaskelainen,A.J., Anzala,O., Vapalahti,O. and Huhtamo,E.
+MK473386	Masika,M.M., Korhonen,E.M., Smura,T., Uusitalo,R., Mwaengo,D., Jaaskelainen,A.J., Anzala,O., Vapalahti,O. and Huhtamo,E.
+MN272405	Mavingui,P., Toty,C. and Pascalis,H.
+
+MK473385	Masika,M.M., Korhonen,E.M., Smura,T., Uusitalo,R., Mwaengo,D., Jaaskelainen,A.J., Anzala,O., Vapalahti,O. and Huhtamo,E.
+LC379193	Abe,H., Ushijima,Y., Loembe,M.M., Agnandji,S.T., Kurosaki,Y., Lell,B. and Yasuda,J.
+MT982919	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+LC379194	Abe,H., Ushijima,Y., Loembe,M.M., Agnandji,S.T., Kurosaki,Y., Lell,B. and Yasuda,J.
+LC379199	Abe,H., Ushijima,Y., Loembe,M.M., Agnandji,S.T., Kurosaki,Y., Lell,B. and Yasuda,J.
+MW243006	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MK473383	Masika,M.M., Korhonen,E.M., Smura,T., Uusitalo,R., Mwaengo,D., Jaaskelainen,A.J., Anzala,O., Vapalahti,O. and Huhtamo,E.
+LC379200	Abe,H., Ushijima,Y., Loembe,M.M., Agnandji,S.T., Kurosaki,Y., Lell,B. and Yasuda,J.
+LC379195	Abe,H., Ushijima,Y., Loembe,M.M., Agnandji,S.T., Kurosaki,Y., Lell,B. and Yasuda,J.
+LC379201	Abe,H., Ushijima,Y., Loembe,M.M., Agnandji,S.T., Kurosaki,Y., Lell,B. and Yasuda,J.
+LC379196	Abe,H., Ushijima,Y., Loembe,M.M., Agnandji,S.T., Kurosaki,Y., Lell,B. and Yasuda,J.
+LC379202	Abe,H., Ushijima,Y., Loembe,M.M., Agnandji,S.T., Kurosaki,Y., Lell,B. and Yasuda,J.
+MT076959	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MT982731	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+KY627762	Baronti,c. and Piorkowski,G.
+
+KY627763	baronti,c. and Piorkowski,G.
+
+MN335247	Maljkovic Berry,I., Rutvisuttinunt,W., Figueroa,K., Srikanth,A. and Jarman,R.G.
+MH802055	Demanou,M., Sado,F.B.Y., Simo,F.B.N., Ateuchia,S.N. and Obam,F.M.M.
+
+MH802056	Demanou,M., Sado,F.B.Y., Simo,F.B.N., Ateuchia,S.N. and Obam,F.M.M.
+
+MH802057	Demanou,M., Sado,F.B.Y., Simo,F.B.N., Ateuchia,S.N. and Obam,F.M.M.
+
+MH802054	Demanou,M., Sado,F.B.Y., Simo,F.B.N., Ateuchia,S.N. and Obam,F.M.M.
+
+MH802053	Demanou,M., Sado,F.B.Y., Simo,F.B.N., Ateuchia,S.N. and Obam,F.M.M.
+
+LC379197	Abe,H., Ushijima,Y., Loembe,M.M., Agnandji,S.T., Kurosaki,Y., Lell,B. and Yasuda,J.
+OL469512	Dieng,I.
+
+OL469513	Dieng,I.
+
+MG937762	Amoako,N., Awandare,G.A. and Duodu,S.
+
+MG937763	Amoako,N., Awandare,G.A. and Duodu,S.
+
+MN335245	Maljkovic Berry,I., Rutvisuttinunt,W., Figueroa,K., Srikanth,A. and Jarman,R.G.
+MN335244	Maljkovic Berry,I., Rutvisuttinunt,W., Figueroa,K., Srikanth,A. and Jarman,R.G.
+LC310791	Taniguchi,S., Lim,C.K., Tajima,S., Maeki,T. and Kutsuna,S.
+
+MT076946	Shah,M.M., Huang,C.N., Sahoo,M.K., Edgerton,S., Bennett,S.N., Pinsky,B.A. and LaBeaud,A.D.
+MN577553	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MN577554	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MT982169	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MN335246	Maljkovic Berry,I., Rutvisuttinunt,W., Figueroa,K., Srikanth,A. and Jarman,R.G.
+MT982922	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MN577555	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MN577556	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MN577557	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MN577558	Langat,S.K., Eyase,F.L., Berry,I.M., Nyunja,A., Bulimo,W.D., Owaka,S., Ofula,V., Limbaso,S., Lutomia,J., Jarman,R., Distelhorst,J. and Sang,R.C.
+MT261976	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261967	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261953	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261968	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261977	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261972	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261956	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261957	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261958	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261959	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261960	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261965	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261951	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261964	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261962	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261963	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261961	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261978	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261969	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MW243050	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MT261979	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261954	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261970	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261971	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261966	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT982917	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MT261973	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261952	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261974	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT261975	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MT980927	Fourie,T.B., Dubot-Peres,A., Grard,G. and Piorkowski,G.
+
+MT261955	Sangare,L., Tarnagda,Z., Mosore,M., Agbodzi,B., Yeboah,C., Kumordjie,S., Pratt,C., Wiley,M.R., Letizia,A., Fox,A. and Ampofo,W.
+MH460898	Hill,S.C., Neto de Vasconcelos,J., Gutierrez Granja,B., Theze,J., Jandondo,D., Neto,Z., Mirandela,M., dos Santos Sebastiao,C., Micolo
+MW481675	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481677	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481678	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481684	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481690	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481676	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481679	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481685	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481674	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481686	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481688	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481673	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481683	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481681	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481682	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481680	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481672	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481691	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481687	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481689	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481694	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481693	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MT125053	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481692	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW481671	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MT125054	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MW288024	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288025	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288026	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288027	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288028	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288029	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288030	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MK045280	Ayolabi,C.I. and Olusola,B.A.
+
+MK045281	Ayolabi,C.I. and Olusola,B.A.
+
+MK045282	Ayolabi,C.I. and Olusola,B.A.
+
+MK045283	Ayolabi,C.I. and Olusola,B.A.
+
+MK045284	Ayolabi,C.I. and Olusola,B.A.
+
+MK045285	Ayolabi,C.I. and Olusola,B.A.
+
+MK045286	Ayolabi,C.I. and Olusola,B.A.
+
+MT981011	Fourie,T.B., Grard,G., Dubot-Peres,A., Piorkowski,G. and Leparc-Goffart,I.
+ON231304	Dieng,I.
+
+ON231306	Dieng,I.
+
+ON231307	Dieng,I.
+
+ON231308	Dieng,I.
+
+ON231309	Dieng,I.
+
+ON231310	Dieng,I.
+
+MW288031	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288032	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288033	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288034	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288035	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288036	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288037	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288038	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288039	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+MW288040	Gaye,A., Ndiaye,T., Sy,M., Deme,A.B., Thiaw,A., Sene,A., Ndiaye,C., Diedhiou,Y., Mbaye,A.M., Ndiaye,I., Tomkins-Tinch,C., Gomis,J., Badiane,A.S., MacInnis,B.L., Park,D.J., Ndiaye,M., Sy,N., Sabeti,P.C., Siddle,K.J. and Ndiaye,D.
+ON231312	Dieng,I.
+
+ON231311	Dieng,I.
+
+ON231313	Dieng,I.
+
+MT981085	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MT981148	Fourie,T.B., Grard,G., Dubot-Peres,A., Piorkowski,G. and Leparc-Goffart,I.
+MW332260	Saidu,Z.J.
+
+MW332572	Saidu,Z.J., Oghafona,N.O., Okojie,R.O. and Tatfeng,Y.M.
+
+MW481670	Martinez,P.A., Neto,Z., Hill,S.C., Jandondo,D., Theze,J., Mirandela,M., Aguiar,R.S., Sebastiao,C.D., Candido,A.L., Vaz,F., Castro,G.R., Paixao,J.P., Loman,N.J., Lemey,P., Pybus,O.G., Vasconcelos,J., Faria,N.R. and Afonso,J.M.
+MN600714	Fourie,T.B., Luciani,L. and Nougairede,A.
+
+MT835384	Mwanyika,G.O., Mboera,L.E., Rugarabamu,S., Sindato,C., Lutwama,J., Paweska,J. and Misinzo,G.
+MT835385	Mwanyika,G.O., Mboera,L.E., Rugarabamu,S., Sindato,C., Lutwama,J., Paweska,J. and Misinzo,G.
+MT835386	Mwanyika,G.O., Mboera,L.E., Rugarabamu,S., Sindato,C., Lutwama,J., Paweska,J. and Misinzo,G.
+MZ544494	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544495	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544496	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544497	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544498	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544499	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544500	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544501	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544502	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544503	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544504	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544505	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544506	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544507	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B.K., Kituyi,S.N. and Waitumbi,J.N.
+MZ544585	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B., Kituyi,S.N. and Waitumbi,J.N.
+MZ544586	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B., Kituyi,S.N. and Waitumbi,J.N.
+MZ544587	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B., Kituyi,S.N. and Waitumbi,J.N.
+MZ544588	Kimita,G., Muthanje,E.M., Nyataya,J.N., Njue,W., Mulili,C., Mugweru,J., Mutai,B., Kituyi,S.N. and Waitumbi,J.N.
+MW243051	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+ON907580	Su,W., Cao,Y. and Lu,W.
+
+ON908223	Su,W., Cao,Y. and Lu,W.
+
+ON885286	Su,W., Cao,Y. and Lu,W.
+
+MW243052	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MT982918	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MW243053	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MW341537	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MW341538	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MW341539	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MW341540	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MW341541	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MW341542	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MW341543	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MW341544	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MW341545	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MW341546	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MW341547	Saidu,J.Z., Eghafona,N.O., Tatfeng,M.Y., Ophori,E.A. and Okojie,R.O.
+MT982126	Fourie,T.B., Grard,G., Dubot-Peres,A., Piorkowski,G. and Leparc-Goffart,I.
+MT982148	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MW243062	Fourie,T.B., Dubot-Peres,A., Grard,G., Piorkowski,G. and Leparc-Goffart,I.
+MT012480	Onoja,A.B.
+
+MT582502	Onoja,A.B.
+
+MT583832	Onoja,A.B.
+
+MT012479	Aradaib,I.E. and Eldigail,M.
+
+ON908232	Su,W., Cao,Y. and Lu,W.
+
+ON890788	Su,W., Cao,Y. and Lu,W.
+
+MW133786	Machelle,I.S.
+
+OM317565	Key,A., Waggoner,J., Ali,I.M., Piantadosi,A.L. and Collins,M.
+
+MW979757	Simo Tchetgna,H.D., Sado Yousseu,F., Tedjou,A., Kamgang,B., McCALL,P.J. and Wondji,C.S.
+MW979758	Simo Tchetgna,H.D., Sado Yousseu,F., Tedjou,A., Kamgang,B., McCALL,P.J. and Wondji,C.S.
+MW979761	Simo Tchetgna,H.D., Sado Yousseu,F., Tedjou,A., Kamgang,B., McCALL,P.J. and Wondji,C.S.
+MW979763	Simo Tchetgna,H.D., Sado Yousseu,F., Tedjou,A., Kamgang,B., McCALL,P.J. and Wondji,C.S.
+MW979759	Simo Tchetgna,H.D., Sado Yousseu,F., Tedjou,A., Kamgang,B., McCALL,P.J. and Wondji,C.S.
+OM317566	Key,A., Waggoner,J., Ali,I.M., Piantadosi,A.L. and Collins,M.
+
+MW979765	Simo Tchetgna,H.D., Sado Yousseu,F., Tedjou,A., Kamgang,B., McCALL,P.J. and Wondji,C.S.
+MW979760	Simo Tchetgna,H.D., Sado Yousseu,F., Tedjou,A., Kamgang,B., McCALL,P.J. and Wondji,C.S.
+MW979764	Simo Tchetgna,H.D., Sado Yousseu,F., Tedjou,A., Kamgang,B., McCALL,P.J. and Wondji,C.S.
+MW979762	Simo Tchetgna,H.D., Sado Yousseu,F., Tedjou,A., Kamgang,B., McCALL,P.J. and Wondji,C.S.
+LC702703	Tizhe,D.T.
+
+LC707378	Ushijima,Y., Abe,H., Mbadinga,M.J.V.M., Nguema-Ondo,G., Bikangui,R., Agnandji,S.T., Lell,B. and Yasuda,J.
+LC707382	Ushijima,Y., Abe,H., Mbadinga,M.J.V.M., Nguema-Ondo,G., Bikangui,R., Agnandji,S.T., Lell,B. and Yasuda,J.
+ON377332	Tchibozo,C., Hounkanrin,G., Bialonski,A., Schmidt-Chanasit,J., Joest,H. and Yadouleton,A.
+AF298808	Tolou,H., Couissinier-Paris,P.F., Mercier,V., Charrel,R., De
+
+AF426120	Goncalvez,A.P., Escalante,A.A., Pujol,F.H., Ludert,J.E., Tovar,D., Salas,R. and Liprandi,F.
+DQ016643	Domingo,C., Palacios,G. and Tenorio,A.
+
+AF425620	Goncalvez,A.P., Escalante,A.A., Pujol,F.H., Ludert,J.E., Tovar,D., Salas,R. and Liprandi,F.
+AF426111	Goncalvez,A.P., Escalante,A.A., Pujol,F.H., Ludert,J.E., Tovar,D., Salas,R. and Liprandi,F.
+AF410375	Twiddy,S.S., Farrar,J.J., Vinh Chau,N., Wills,B., Gould,E.A., Lloyd,G. and Holmes,E.C.
+AF425610	Goncalvez,A.P., Escalante,A.A., Pujol,F.H., Ludert,J.E., Tovar,D., Salas,R. and Liprandi,F.
+EU073983	Moureau,G., Temmam,S., Charrel,R., Grard,G. and de Lamballerie,X.
+
+AY665402	Messer,W. and de Silva,A.
+
+DQ016641	Domingo,C., Palacios,G. and Tenorio,A.
+
+AF426124	Goncalvez,A.P., Escalante,A.A., Pujol,F.H., Ludert,J.E., Tovar,D., Salas,R. and Liprandi,F.
+DQ016638	Domingo,C., Palacios,G. and Tenorio,A.
+
+AF425625	Goncalvez,A.P., Escalante,A.A., Pujol,F.H., Ludert,J.E., Tovar,D., Salas,R. and Liprandi,F.
+EU073979	Moureau,G., Temmam,S., Charrel,R., Grard,G. and de Lamballerie,X.
+
+KT716076	Ole Kwallah,A., Inoue,S., Morita,K. and Mwau,M.
+
+KT716077	Ole Kwallah,A., Inoue,S., Morita,K. and Mwau,M.
+
+KT716078	Ole Kwallah,A., Inoue,S., Morita,K. and Mwau,M.
+
+MF574722	Hamid,Z.A.A., Elaagip,A.H., Alsedig,K.A.D., Hamdan,T.H.A., Abdallah,T.M. and Abdel Hamid,M.M.
+MF574723	Hamid,Z.A.A., Elaagip,A.H., Alsedig,K.A.D., Hamdan,T.H.A., Abdallah,T.M. and Abdel Hamid,M.M.
+MF574724	Hamid,Z.A.A., Elaagip,A.H., Alsedig,K.A.D., Hamdan,T.H.A., Abdallah,T.M. and Abdel Hamid,M.M.
+MF574725	Hamid,Z.A.A., Elaagip,A.H., Alsedig,K.A.D., Hamdan,T.H.A., Abdallah,T.M. and Abdel Hamid,M.M.
+LC206003	Maeki,T., Tajima,S., Hashimoto,T. and Kutsuna,S.
+
+MG727535	Hilali,F., Anfasa,F., Bajjou,T., Touil,N., Laraqui,A., Reggad,A., Ennibi,K., Koopmans,M.P.G., Martina,B.E.E. and Sekhsokh,Y.
+KF907503	Aubry,F., Querat,G. and Tesh,R.B.
+
+EF105387	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+EF105388	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+EF105384	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+MW946564	Salje,H., Lessler,J., Berry,I., Melendrez,M., Endy,T., Kalanarooj,S., A-Nuegoonpipat,A., Chanama,S., Sangkijporn,S., Klungthong,C., Thaisomboonsuk,B., Nisalak,A., Gibbons,R., Iamsirithaworn,S., Macareo,L., Yoon,I.-K., Sangarsang,A., Jarman,R.
+EF105385	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+EF105382	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+EF105386	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+EF105380	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+EF105381	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+EF105383	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+DQ917247	Vasilakis,N., Shell,E.J., Fokam,E.B., Mason,P.W., Hanley,K.A., Estes,D.M. and Weaver,S.C.
+DQ917246	Vasilakis,N., Shell,E.J., Fokam,E.B., Mason,P.W., Hanley,K.A., Estes,D.M. and Weaver,S.C.
+DQ917244	Vasilakis,N., Shell,E.J., Fokam,E.B., Mason,P.W., Hanley,K.A., Estes,D.M. and Weaver,S.C.
+DQ917245	Vasilakis,N., Shell,E.J., Fokam,E.B., Mason,P.W., Hanley,K.A., Estes,D.M. and Weaver,S.C.
+EF105378	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+MF004387	Baronti,C., Piorkowski,G., Touret,F., Gilles,M., Pastorino,B., Querat,G., Placidi,C., Priet,S. and de Lamballerie,X.
+EU056810	Vasilakis,N., Fokam,E.B. and Weaver,S.C.
+
+OK605769	Tamura,T., Zhang,J., Madan,V., Biswas,A., Schwoerer,M.P., Cafiero,T.R., Heller,B.L., Wang,W. and Ploss,A.
+FJ882575	Henn,M.R., Schmidt,D., Young,S., Koehrsen,M., Jaffe,D., Lennon,N., Erlich,R., Anderson,S., Rizzolo,K., Green,L., Ryan,E., Yu,Q., Berlin,A., Heiman,D., Hepburn,T., Sykes,S., Borenstein,D., Engels,R., Freedman,E., Gellesch,M., Heilman,E., Howarth,C., Jen,D., Larson,L., Lewis,B., Montgomery,P., Park,D., Pearson,M., Richards,J., Roberts,A., Sisk,P., Stolte,C., White,J., Alvarado,L., Champion,M., Godfrey,P., Shenoy,N., Yandava,C., Zeng,Q., Alvarez,P., Brockman,W., Butler,J., Gnerre,S., Grabherr,M., Kleber,M., Mauceli,E., MacCallum,I., Comach,G., De Bosch,N., Rothman,A., Gubler,D., Nusbaum,C., Bosch,I. and Birren,B.
+GU131843	Henn,M.R., McElroy,K.L., Santiago,G., Young,S., Koehrsen,M., Lennon,N., Erlich,R., Anderson,S., Rizzolo,K., Green,L., Ryan,E., Yu,Q., Berlin,A., Heiman,D., Hepburn,T., Sykes,S., Borenstein,D., Engels,R., Freedman,E., Gellesch,M., Heilman,E., Howarth,C., Jen,D., Larson,L., Lewis,B., Montgomery,P., Park,D., Pearson,M., Richards,J., Roberts,A., Sisk,P., Stolte,C., White,J., Alvarado,L., Champion,M., Godfrey,P., Shenoy,N., Yandava,C., Zeng,Q., Rico-Hesse,R., Digoutte,J.P., Nusbaum,C., Munoz-Jordan,J. and Birren,B.
+HM234642	Sukupolvi-Petty,S., Johnson,S., Rico-Hesse,R., Harris,E., Pierson,T.C., Fremont,D.H., Diamond,M.S., Austin,S.Kyle., Engle,M., Brien,J.D., Dowd,K. and Williams,K.L.
+OL452067	Tamura,T., Zhang,J., Madan,V., Biswas,A., Schwoerer,M.P., Cafiero,T.R., Heller,B.L., Wang,W. and Ploss,A.
+OK605757	Tamura,T., Zhang,J., Madan,V., Biswas,A., Schwoerer,M.P., Cafiero,T.R., Heller,B.L., Wang,W. and Ploss,A.
+DQ285562	Schuffenecker,I., Murri,S., Reynard,S. and Zeller,H.G.
+
+OK605766	Tamura,T., Zhang,J., Madan,V., Biswas,A., Schwoerer,M.P., Cafiero,T.R., Heller,B.L., Wang,W. and Ploss,A.
+MZ857219	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+EF457904	Vasilakis,N., Holmes,E.C., Fokam,E.B., Faye,O., Diallo,M., Sall,A.A. and Weaver,S.C.
+EF105390	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+EF105389	Vasilakis,N., Holmes,E.C., Fokam,E.B., Diallo,M., Sall,A.A., Weaver,S.C. and Vasilakis,N.
+FJ502917	Domingo,C.
+
+DQ285561	Schuffenecker,I., Murri,S., Reynard,S. and Zeller,H.G.
+
+FJ502873	Domingo,C.
+
+DQ285557	Schuffenecker,I., Murri,S., Reynard,S. and Zeller,H.G.
+
+FJ502874	Domingo,C.
+
+FJ502918	Domingo,C.
+
+EU005258	Huhtamo,E., Uzcategui,N.Y., Siikamaki,H., Saarinen,A., Piiparinen,H., Vaheri,A. and Vapalahti,O.
+EU005251	Huhtamo,E., Uzcategui,N.Y., Siikamaki,H., Saarinen,A., Piiparinen,H., Vaheri,A. and Vapalahti,O.
+FJ502943	Domingo,C.
+
+FJ502864	Domingo,C.
+
+EU448412	Shu,P.-Y., Huang,J.-H., Su,C.-L., Liao,T.-L., Yang,C.-F., Chang,S.-F., Lin,C.-C. and Chang,M.-C.
+JX080289	Caron,M. and Leroy,E.
+
+JX080295	Caron,M. and Leroy,E.
+
+FJ502863	Domingo,C.
+
+FJ502975	Domingo,C.
+
+MZ857222	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+JX080294	Caron,M. and Leroy,E.
+
+KT187284	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+KT187283	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+KT187282	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+JX080296	Caron,M. and Leroy,E.
+
+JX080293	Caron,M. and Leroy,E.
+
+KT187285	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+KT187281	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+KU509282	Cadar,D. and Schmidt-Chanasit,J.
+
+JX080290	Caron,M. and Leroy,E.
+
+JX080291	Caron,M. and Leroy,E.
+
+JX080299	Caron,M. and Leroy,E.
+
+JX080297	Caron,M. and Leroy,E.
+
+JX080298	Caron,M. and Leroy,E.
+
+JX080292	Caron,M. and Leroy,E.
+
+KT187291	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+KT187290	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+KT187289	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+KU509258	Cadar,D. and Schmidt-Chanasit,J.
+
+MZ857203	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+KC848579	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848586	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848582	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848588	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848578	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848577	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848581	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848580	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848584	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848589	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848587	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848583	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848585	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KC848576	Santiago,G.A., Medina,J.F., Colon,C. and Munoz-Jordan,J.L.
+
+KT187293	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+KT187292	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+MZ857204	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+OK040060	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+KT187295	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+KT187294	Monteil,V.M., Caro,V., Maquart,M., Jaffar-Bandjee,M.-C., Grandadam,M. and Leparc-Goffart,I.
+MG877557	Fontaine,A., Lequime,S., Moltini-Conclois,I., Jiolle,D., Leparc-Goffart,I., Reiner,R.C. Jr. and Lambrechts,L.
+KM277610	Santiago,G.A., Merolle,A., Rebello-Cardoso,Y. and Munoz-Jordan,J.L.
+
+KM277614	Santiago,G.A., Merolle,A., Rebello-Cardoso,Y. and Munoz-Jordan,J.L.
+
+KM277612	Santiago,G.A., Merolle,A., Rebello-Cardoso,Y. and Munoz-Jordan,J.L.
+
+KM277613	Santiago,G.A., Merolle,A., Rebello-Cardoso,Y. and Munoz-Jordan,J.L.
+
+KM277611	Santiago,G.A., Merolle,A., Rebello-Cardoso,Y. and Munoz-Jordan,J.L.
+
+MZ857205	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MZ857206	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MZ857208	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MZ857209	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+KU577449	Gomes,E., Guedes,D.R.D., Paiva,M.H.S., Krokovsky,L., Melo-Santos,M.A.V., Gomez,L.F. and Ayres,C.F.J.
+KU577448	Gomes,E., Guedes,D.R.D., Paiva,M.H.S., Krokovsky,L., Melo-Santos,M.A.V., Gomez,L.F. and Ayres,C.F.J.
+KU577447	Gomes,E., Guedes,D.R.D., Paiva,M.H.S., Krokovsky,L., Melo-Santos,M.A.V., Gomez,L.F. and Ayres,C.F.J.
+KU577446	Gomes,E., Guedes,D.R.D., Paiva,M.H.S., Krokovsky,L., Melo-Santos,M.A.V., Gomez,L.F. and Ayres,C.F.J.
+KU577445	Gomes,E., Guedes,D.R.D., Paiva,M.H.S., Krokovsky,L., Melo-Santos,M.A.V., Gomez,L.F. and Ayres,C.F.J.
+KU509307	Cadar,D. and Schmidt-Chanasit,J.
+
+LC379220	Hayashi,T., Bonney,J.H., Dadzie,S., Agbosu,E., Asiedu-Bekoe,F., Ido,E., Pratt,D., Sarkodie,B., Ohta,N. and Yamaoka,S.
+LC379221	Hayashi,T., Bonney,J.H., Dadzie,S., Agbosu,E., Asiedu-Bekoe,F., Ido,E., Pratt,D., Sarkodie,B., Ohta,N. and Yamaoka,S.
+LC379222	Hayashi,T., Bonney,J.H., Dadzie,S., Agbosu,E., Asiedu-Bekoe,F., Ido,E., Pratt,D., Sarkodie,B., Ohta,N. and Yamaoka,S.
+LC379223	Hayashi,T., Bonney,J.H., Dadzie,S., Agbosu,E., Asiedu-Bekoe,F., Ido,E., Pratt,D., Sarkodie,B., Ohta,N. and Yamaoka,S.
+LC379224	Hayashi,T., Bonney,J.H., Dadzie,S., Agbosu,E., Asiedu-Bekoe,F., Ido,E., Pratt,D., Sarkodie,B., Ohta,N. and Yamaoka,S.
+MZ857210	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MZ857211	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MZ857212	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MZ857214	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+KY815103	Mahumane Gundane,I., Oludele,J., Lesko,B., Muianga,A., Ali,S., Pinto,G., Mula,F., Chelene,I., Chongo,I., Antonio,V., Agostinho,S., Mendes,S., de Bruycker Nogueira,F., dos Santos,F.B., Falk,K.I. and Gudo,E.S.
+KY815104	Mahumane Gundane,I., Oludele,J., Lesko,B., Muianga,A., Ali,S., Pinto,G., Mula,F., Chelene,I., Chongo,I., Antonio,V., Agostinho,S., Mendes,S., de Bruycker Nogueira,F., dos Santos,F.B., Falk,K.I. and Gudo,E.S.
+KY815105	Mahumane Gundane,I., Oludele,J., Lesko,B., Muianga,A., Ali,S., Pinto,G., Mula,F., Chelene,I., Chongo,I., Antonio,V., Agostinho,S., Mendes,S., de Bruycker Nogueira,F., dos Santos,F.B., Falk,K.I. and Gudo,E.S.
+MZ857215	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MZ857216	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+OK040059	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MG779194	Kimita,G., Nyataya,J.N., Mutai,B.K. and Waitumbi,J.N.
+
+MG779195	Kimita,G., Nyataya,J.N., Mutai,B.K. and Waitumbi,J.N.
+
+MG779196	Kimita,G., Nyataya,J.N., Mutai,B.K. and Waitumbi,J.N.
+
+MG779197	Kimita,G., Nyataya,J.N., Mutai,B.K. and Waitumbi,J.N.
+
+MG779198	Kimita,G., Nyataya,J.N., Mutai,B.K. and Waitumbi,J.N.
+
+MG779199	Kimita,G., Nyataya,J.N., Mutai,B.K. and Waitumbi,J.N.
+
+MG779200	Kimita,G., Nyataya,J.N., Mutai,B.K. and Waitumbi,J.N.
+
+MG779201	Kimita,G., Nyataya,J.N., Mutai,B.K. and Waitumbi,J.N.
+
+MG779202	Kimita,G., Nyataya,J.N., Mutai,B.K. and Waitumbi,J.N.
+
+MG779203	Kimita,G., Nyataya,J.N., Mutai,B.K. and Waitumbi,J.N.
+
+MH729985	Wang,J., Zhang,Y., You,L., Kan,N., Lin,Q., Weng,Y. and Zheng,K.
+
+MZ857218	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MZ857220	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+MZ857221	Alfsnes,K., Eldholm,V., Gaunt,M., de Lamballerie,X., Gould,E. and Pettersson,J.H.
+LC666718	Hayashi,T. and Yamaoka,S.
+
+LC666719	Hayashi,T. and Yamaoka,S.
+
+OK384579	Stoek,F., Barry,Y., Sadeghi,B., Wylezich,C., Ba,A., Schulz,A., Rissmann,M., Beyit,A.D., Eisenbarth,A., Ndiaye,F.B., Haki,M.L., Doumbia,A.B., Gueya,M.B., Ould Bah,M.Y., Eiden,M. and Groschup,M.H.
+OK384856	Stoek,F., Barry,Y., Sadeghi,B., Wylezich,C., Ba,A., Schulz,A., Rissmann,M., Beyit,A.D., Eisenbarth,A., Ndiaye,F.B., Haki,M.L., Doumbia,A.B., Gueya,M.B., Ould Bah,M.Y., Eiden,M. and Groschup,M.H.
+LC462951	Maeki,T., Tajima,S., Taniguchi,S., Lim,C.K. and Suzuki,T.
+

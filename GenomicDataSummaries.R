@@ -1,6 +1,7 @@
 library(ggplot2)
 library(readxl)
 library(rworldmap)
+library(cowplot)
 
 #Functions to annotate location info
 world_data<-getMap(resolution='low')@data
@@ -42,7 +43,7 @@ zika_genome_length<-11000 #approximately
 rvf_genome_length<-12000 #approximately
 yellowfever_genome_length<-10000 #approximately
 
-genome<-dengue_genome_length
+genome<-chik_genome_length
 
 #Read whichever virus genomic data by just navigating the file location below
 chik_data<-read_excel("VIPR_chikungunya/148117604240-Results.xls")
@@ -51,9 +52,9 @@ zika_data<-read_excel("VIPR_zika/28966063777-Results.xls")
 riftvalley_data<-read_excel("VIPR_riftvalleyfever/40460646054-Results.xls")
 yellowfever_data<-read_excel("VIPR_yellowfever/704972492015-Results.xls")
 
-genomic_data<-dengue_data
+genomic_data<-chik_data
 genomic_data$seq_length<-as.numeric(genomic_data$`Sequence Length`)
-genomic_data$seq_coverage<-as.numeric(genome-genomic_data$seq_length)/genome
+genomic_data$seq_coverage<-as.numeric(genomic_data$seq_length)/genome
 genomic_data$cov_categories <- cut(genomic_data$seq_coverage, breaks = c(-0.5,0,0.5, 0.9, Inf),
                   labels = c(">90%","0-50%", "50-90%", ">90%"),
                   right = FALSE)
@@ -91,6 +92,10 @@ genomic_data$Continent[genomic_data$Continent == 'character(0)'] <- NA
 genomic_data$Continent_Region<-lapply(genomic_data$Country,country2continent_region)
 genomic_data$Continent_Region[genomic_data$Continent_Region == 'character(0)'] <- NA
 
+genomic_data$`Subtype/Genotype (ViPR)`[genomic_data$`Subtype/Genotype (ViPR)` == '-N/A-'] <- NA
+
+
+
 global_distribution<-ggplot(genomic_data,mapping= aes(x=date5,fill=unlist(Continent)))+
   theme_bw()+
   geom_bar(stat='count',colour='black',size=0.2)+
@@ -113,7 +118,6 @@ africa_distribution<-ggplot(subset(genomic_data,Continent=='Africa'),mapping= ae
 africa_distribution
 
 
-genomic_data$`Subtype/Genotype (ViPR)`[genomic_data$`Subtype/Genotype (ViPR)` == '-N/A-'] <- NA
 
 africa_genotypes<-ggplot(subset(genomic_data,Continent=='Africa'),mapping= aes(x=date5,fill=`Subtype/Genotype (ViPR)`))+
   theme_bw()+
@@ -127,6 +131,17 @@ africa_genotypes
 
 
 
+africa_denvtypes<-ggplot(subset(genomic_data,Continent=='Africa'),mapping= aes(x=date5,fill=`Virus Type`))+
+  theme_bw()+
+  geom_bar(stat='count',colour='black',size=0.2)+
+  xlab('Collection Date')+
+  ylab('Count')+
+  scale_fill_brewer(palette = 'Paired',name='Genotype')+
+  theme(legend.position = 'bottom')+
+  ggtitle('Dengue Types in Africa')
+africa_denvtypes
+
+
 africa_genotypes2<-ggplot(subset(genomic_data,Continent=='Africa'),mapping= aes(x=date5,fill=`Subtype/Genotype (ViPR)`))+
   theme_bw()+
   geom_bar(stat='count',position='fill',colour='black',size=0.2)+
@@ -136,3 +151,27 @@ africa_genotypes2<-ggplot(subset(genomic_data,Continent=='Africa'),mapping= aes(
   theme(legend.position = 'bottom')+
   ggtitle('Genotypes in Africa')
 africa_genotypes2
+
+
+africa_denvtypes2<-ggplot(subset(genomic_data,Continent=='Africa'),mapping= aes(x=date5,fill=`Virus Type`))+
+  theme_bw()+
+  geom_bar(stat='count',colour='black',size=0.2,position='fill')+
+  xlab('Collection Date')+
+  ylab('Count')+
+  scale_fill_brewer(palette = 'Paired',name='Genotype')+
+  theme(legend.position = 'bottom')+
+  ggtitle('Dengue Types in Africa')
+africa_denvtypes2
+
+
+plot_grid(global_distribution,africa_distribution,africa_denvtypes,africa_denvtypes2,africa_genotypes,africa_genotypes2,ncol=2)
+ggsave("Dengue_summary_figures.pdf", width = 40, height = 30, units = "cm")
+
+genomic_data$Continent<-unlist(genomic_data$Continent)
+genomic_data$Continent_Region<-unlist(genomic_data$Continent_Region)
+genomic_data_africa<-subset(genomic_data,Continent=='Africa')
+genomic_data_above_50<-subset(genomic_data,seq_coverage>=0.5)
+genomic_data_above_50_africa<-subset(genomic_data_above_50,Continent=='Africa')
+
+write.csv(x=genomic_data_africa,file='chikungunya_Africa_genomes_all.csv')
+write.csv(x=genomic_data_above_50,file='chikungunya_global_genomes_above50.csv')

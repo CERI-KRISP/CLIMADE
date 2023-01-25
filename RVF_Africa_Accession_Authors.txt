@@ -1,0 +1,1605 @@
+OK392020	Stoek,F., Barry,Y., Sadeghi,B., Wylezich,C., Ba,A., Schulz,A., Rissmann,M., Beyit,A.D., Eisenbarth,A., N'diaye,F.B., Haki,M.L., Doumbia,A.B., Gueya,M.B., Ould Bah,M.Y., Eiden,M. and Groschup,M.H.
+OK415590	Stoek,F., Barry,Y., Sadeghi,B., Wylezich,C., Ba,A., Schulz,A., Rissmann,M., Beyit,A.D., Eisenbarth,A., N'diaye,F.B., Haki,M.L., Doumbia,A.B., Gueya,M.B., Ould Bah,M.Y., Eiden,M. and Groschup,M.H.
+OK415591	Stoek,F., Barry,Y., Sadeghi,B., Wylezich,C., Ba,A., Schulz,A., Rissmann,M., Beyit,A.D., Eisenbarth,A., N'diaye,F.B., Haki,M.L., Doumbia,A.B., Gueya,M.B., Ould Bah,M.Y., Eiden,M. and Groschup,M.H.
+OK415592	Stoek,F., Barry,Y., Sadeghi,B., Wylezich,C., Ba,A., Schulz,A., Rissmann,M., Beyit,A.D., Eisenbarth,A., N'diaye,F.B., Haki,M.L., Doumbia,A.B., Gueya,M.B., Ould Bah,M.Y., Eiden,M. and Groschup,M.H.
+OK415593	Stoek,F., Barry,Y., Sadeghi,B., Wylezich,C., Ba,A., Schulz,A., Rissmann,M., Beyit,A.D., Eisenbarth,A., N'diaye,F.B., Haki,M.L., Doumbia,A.B., Gueya,M.B., Ould Bah,M.Y., Eiden,M. and Groschup,M.H.
+OK415594	Stoek,F., Barry,Y., Sadeghi,B., Wylezich,C., Ba,A., Schulz,A., Rissmann,M., Beyit,A.D., Eisenbarth,A., N'diaye,F.B., Haki,M.L., Doumbia,A.B., Gueya,M.B., Ould Bah,M.Y., Eiden,M. and Groschup,M.H.
+OK415595	Stoek,F., Barry,Y., Sadeghi,B., Wylezich,C., Ba,A., Schulz,A., Rissmann,M., Beyit,A.D., Eisenbarth,A., N'diaye,F.B., Haki,M.L., Doumbia,A.B., Gueya,M.B., Ould Bah,M.Y., Eiden,M. and Groschup,M.H.
+OK415596	Stoek,F., Barry,Y., Sadeghi,B., Wylezich,C., Ba,A., Schulz,A., Rissmann,M., Beyit,A.D., Eisenbarth,A., N'diaye,F.B., Haki,M.L., Doumbia,A.B., Gueya,M.B., Ould Bah,M.Y., Eiden,M. and Groschup,M.H.
+OM744400	Borrego,B., Lorenzo,G. and Brun,A.
+
+OM744401	Borrego,B., Lorenzo,G. and Brun,A.
+
+OM744402	Borrego,B., Lorenzo,G. and Brun,A.
+
+OM744365	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744366	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744367	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744368	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744369	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744370	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744371	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744372	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744373	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744374	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744375	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744376	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744377	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744378	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+OM744379	Juma,J.A., Limbaso,S.K. and Oyola,S.O.
+
+MT561459	Monaco,F., Pinoni,C., Cosseddu,G.M., Siegfried,K., Kudakwashe,M., Paolo,C., Umberto,M., Alec,B., Annamaria,C., Massimo,S. and Rossella,L.
+MT561462	Capobianco Dondona,A., Aschenborn,O., Pinoni,C., Di
+
+MT561460	Monaco,F., Pinoni,C., Cosseddu,G.M., Siegfried,K., Kudakwashe,M., Paolo,C., Umberto,M., Alec,B., Annamaria,C., Massimo,S. and Rossella,L.
+MT561463	Capobianco Dondona,A., Aschenborn,O., Pinoni,C., Di
+
+MT561461	Monaco,F., Pinoni,C., Cosseddu,G.M., Siegfried,K., Kudakwashe,M., Paolo,C., Umberto,M., Alec,B., Annamaria,C., Massimo,S. and Rossella,L.
+MT561464	Capobianco Dondona,A., Aschenborn,O., Pinoni,C., Di
+
+MW567931	Kariuki,L.W., Bulimo,W.D., Sang,R.C., Majanja,J.M., Opot,B.H., Achilla,R.A., Eyase,F.L., Konongoi,L.S., Opanda,S.M., Koka,H.S., Nyunja,A.O. and Wadegu,M.O.
+MW567934	Kariuki,L.W., Bulimo,W.D., Sang,R.C., Majanja,J.M., Opot,B.H., Achilla,R.A., Eyase,F.L., Konongoi,L.S., Opanda,S.M., Koka,H.S., Nyunja,A.O. and Wadegu,M.O.
+MW567932	Kariuki,L.W., Bulimo,W.D., Sang,R.C., Majanja,J.M., Opot,B.H., Achilla,R.A., Eyase,F.L., Konongoi,L.S., Opanda,S.M., Koka,H.S., Nyunja,A.O. and Wadegu,M.O.
+MW567935	Kariuki,L.W., Bulimo,W.D., Sang,R.C., Majanja,J.M., Opot,B.H., Achilla,R.A., Eyase,F.L., Konongoi,L.S., Opanda,S.M., Koka,H.S., Nyunja,A.O. and Wadegu,M.O.
+MW567933	Kariuki,L.W., Bulimo,W.D., Sang,R.C., Majanja,J.M., Opot,B.H., Achilla,R.A., Eyase,F.L., Konongoi,L.S., Opanda,S.M., Koka,H.S., Nyunja,A.O. and Wadegu,M.O.
+MW567936	Kariuki,L.W., Bulimo,W.D., Sang,R.C., Majanja,J.M., Opot,B.H., Achilla,R.A., Eyase,F.L., Konongoi,L.S., Opanda,S.M., Koka,H.S., Nyunja,A.O. and Wadegu,M.O.
+MW316062	Anthony,T., van Schalkwyk,A., Romito,M., Odendaal,L., Clift,S.J.
+
+MW316061	Anthony,T., van Schalkwyk,A., Romito,M., Odendaal,L., Clift,S.J.
+
+MW316060	Anthony,T., van Schalkwyk,A., Romito,M., Odendaal,L., Clift,S.J.
+
+MW316059	Anthony,T., van Schalkwyk,A., Romito,M., Odendaal,L., Clift,S.J.
+
+MW316058	Anthony,T., van Schalkwyk,A., Romito,M., Odendaal,L., Clift,S.J.
+
+MW316057	Anthony,T., van Schalkwyk,A., Romito,M., Odendaal,L., Clift,S.J.
+
+MZ218760	AbdEl Fattah,T., Ibrahim,S.M., Hammad,M.Y. and Yousif,N.E.
+
+HM587074	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM586982	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HM587079	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EF160116	Faye,O. and Diop,O.M.
+
+EU312124	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574005	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM586965	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+EF160115	Faye,O. and Diop,O.M.
+
+EU312128	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574009	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM587106	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM587075	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+DQ375412	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380171	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ375419	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM587107	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+DQ375414	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380177	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ375413	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380178	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EF160114	Faye,O. and Diop,O.M.
+
+EU312129	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574008	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU312107	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+GQ443178	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU312109	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+JN995262	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587100	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+DQ380179	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM586966	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+JN995268	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443176	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM586962	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+KJ782452	Nakoune,E., Berthet,N. and Kazanji,M.
+
+HM587077	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM586968	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+JN995266	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443179	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587076	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EF160117	Faye,O. and Diop,O.M.
+
+EU312135	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU312140	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+HM587073	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+KJ782456	Nakoune,E., Berthet,N. and Kazanji,M.
+
+KU746664	Hussien,H.A., Eldegail,M.H., Ahmed,M.E., Bilal,N.E. and Aradaib,I.E.
+EF460404	Lee,J.S., Groebner,J.L., Richardson,J.H., Sang,R.C. and O'Guinn,M.L.
+HM586960	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HM587072	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JN995265	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587070	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU312105	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+KJ782454	Nakoune,E., Berthet,N. and Kazanji,M.
+
+EF160118	Faye,O. and Diop,O.M.
+
+EU312132	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU312147	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+HM587103	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+KJ782455	Nakoune,E., Berthet,N. and Kazanji,M.
+
+HM586967	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+EU312103	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+JQ974833	Eiden,M., Jaeckel,S., Vina-Rodriguez,A., Unger,H., Isselmou,K. and Groschup,M.H.
+HM587049	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU312136	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU312143	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+JQ820491	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+EU312130	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU312145	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU312133	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU312146	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+DQ380219	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995269	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+KJ782453	Nakoune,E., Berthet,N. and Kazanji,M.
+
+DQ375416	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380175	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM587108	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU312125	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574004	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM587048	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+DQ375415	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380176	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EU312134	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU312141	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+GQ443177	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM586983	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+DQ924959	Jansen van Vuren,P., Potgieter,A.C., Paweska,J.T. and Van Dijk,A.A.
+
+EU312104	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+HM587101	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM587078	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JQ820490	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+HM587071	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+KU167026	Lumley,S., Marston,D.A., Horton,D.L., Johnson,N., Ellis,R.J., Fooks,A.R. and Hewson,R.
+DQ375411	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380172	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ375410	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380173	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM587105	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM586963	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+KJ782457	Nakoune,E., Berthet,N. and Kazanji,M.
+
+GQ443173	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587109	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU312121	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EF160113	Faye,O. and Diop,O.M.
+
+DQ380218	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443175	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM586981	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HQ403563	Hussein,H.A., El-Deeb,A.H. and El-Sanousi,A.
+
+EU312131	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU312144	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+JN995260	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+EU312127	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574006	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU312106	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+HM586980	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HQ403562	Hussein,H.A., El-Deeb,A.H. and El-Sanousi,A.
+
+JN995264	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM586961	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+KU167027	Lumley,S., Marston,D.A., Horton,D.L., Johnson,N., Ellis,R.J., Fooks,A.R. and Hewson,R.
+GQ443170	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM586984	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+DQ375418	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EU312126	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574007	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443172	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443174	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587102	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+KU167025	Lumley,S., Marston,D.A., Horton,D.L., Johnson,N., Ellis,R.J., Fooks,A.R. and Hewson,R.
+GQ443171	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HQ403564	Hussein,H.A., El-Deeb,A.H. and El-Sanousi,A.
+
+KM210509	El Mamy,A.B.O., Lo,M.M., Thiongane,Y., Diop,M., Isselmou,K., Doumbia,B., Ould Baba,M., El Arbi,A.S., Lancelot,R., Albina,E. and Cetre-Sossah,C.
+DQ375417	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380174	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EU312122	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+JN995263	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM586964	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+EU312120	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+HM587104	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+KM210508	El Mamy,A.B.O., Lo,M.M., Thiongane,Y., Diop,M., Isselmou,K., Doumbia,B., Ould Baba,M., El Arbi,M., Lancelot,R., Albina,E. and Cetre-Sossah,C.
+EU312113	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+HM587099	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JQ820479	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+JN995277	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ380207	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995339	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587059	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JN995267	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443218	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GU135847	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+GQ443219	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GU135856	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+JQ820484	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+DQ380183	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995297	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587067	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU312108	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+JF311389	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+HM586969	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+JN995261	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+EU574049	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574048	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM586978	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+JN995272	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443129	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443189	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443220	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443255	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU312112	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574011	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574064	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM587094	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM586972	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+GQ443199	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JQ820474	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+HM587066	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443127	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM586953	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HM587098	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JQ820486	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+EU709747	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+JN995295	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+KF648853	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+KF648852	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+DQ380204	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM586971	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HM587095	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JQ820487	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+GQ443242	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574068	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574082	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ375398	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM586970	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HM586975	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HM587091	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU574025	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443245	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JF326201	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM586954	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+GQ443232	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995324	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587118	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU574043	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM586956	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+EU574065	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ380209	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380216	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443166	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995292	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+EU574010	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JN995314	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587044	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JN995296	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587045	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JF311394	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+JN995332	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+KF717588	Faye,O., Ba,H., Ba,Y., Freire,C., Faye,O., Ndiaye,O., Elqady,I., Zanotto,P. and Alpha,A.
+DQ375431	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM587121	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+DQ375405	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380188	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995276	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JQ820478	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+KU645397	Fafetine,J.M., Mubemba,B., Coetzee,P. and Venter,E.
+
+KU645396	Fafetine,J.M., Mubemba,B., Coetzee,P. and Venter,E.
+
+HM587040	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JF311390	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+DQ380215	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EU574035	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JQ820473	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+GQ443164	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443238	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+DQ380203	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ375396	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380154	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GU135841	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+GU135842	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+JN995254	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ380212	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443167	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995256	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995275	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+EU574026	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443151	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574027	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574021	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ380184	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EU574024	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ375404	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380189	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EU574022	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ380182	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EF530207	Potgieter,A.C. Sr.
+
+GQ443155	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995280	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ375426	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380163	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM587047	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443153	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GU135851	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+HM587060	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443136	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443143	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587119	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+KX632067	Zhang,J.W., Shi,Y.X., Zheng,K., Huang,J.C., Xu,X., Li,X.B., Dai,J., Li,S.F., Zhong,Y.Q., Li,L.Q., Lu,H.R., Ma,J.M., Li,W.S., Yu,J.Y., Hong,R.S., Lu,L.H., Ji,J.K., Peng,S.Q., Mai,G.Q., Huang,Y.T., Qiu,J.J., Li,J.D., Liu,X., Chen,Y.Y., Zhang,X.G., Zhang,J.M., Jin,X., Huang,J.H., Sun,F.J., Wang,Z. and Zhu,Z.Y.
+JQ820480	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+EU574034	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443165	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443239	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995257	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+KF717591	Faye,O., Ba,H., Ba,Y., Freire,C., Faye,O., Ndiaye,O., Elqady,I., Zanotto,P. and Alpha,A.
+DQ375434	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443207	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443212	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995340	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443152	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+DQ375406	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443237	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995259	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995321	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+EU574069	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574083	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+KX096939	Shivanna,V., McDowell,C., Wilson,W.C. and Richt,J.A.
+
+KF648856	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+HM587052	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU574033	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JF311382	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+GQ443162	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587057	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JN995328	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443163	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995251	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995329	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ380200	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GU135855	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+EU312137	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU312142	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+GQ443236	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995258	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GU135859	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+HM587068	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JF311387	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+HM587041	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU574031	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JN995320	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443225	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443250	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995337	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443160	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574032	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574046	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JN995290	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GU135852	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+HM587063	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GU135858	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+HM587069	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443196	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JQ820489	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+DQ380214	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM587116	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443211	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+DQ375408	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380185	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GU135850	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+HM587061	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443216	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GU135849	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+JQ820483	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+DQ380152	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380150	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF311381	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+DQ375409	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380187	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ375407	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ375400	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JQ820481	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+GQ443240	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GU135840	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+GQ443180	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443229	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443159	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587046	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU574080	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JQ820482	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+KX632068	Zhang,J.W., Shi,Y.X., Zheng,K., Huang,J.C., Xu,X., Li,X.B., Dai,J., Li,S.F., Zhong,Y.Q., Li,L.Q., Lu,H.R., Ma,J.M., Li,W.S., Yu,J.Y., Hong,R.S., Lu,L.H., Ji,J.K., Peng,S.Q., Mai,G.Q., Huang,Y.T., Qiu,J.J., Li,J.D., Liu,X., Chen,Y.Y., Zhang,X.G., Zhang,J.M., Jin,X., Huang,J.H., Sun,F.J., Wang,Z. and Zhu,Z.Y.
+GQ443187	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443147	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JQ820485	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+EU574056	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JN995284	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ380180	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM587064	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443132	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995310	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ380186	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380146	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380217	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380181	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995343	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GU135854	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+HM587065	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443186	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995345	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JF311376	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+EU574036	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ375402	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443131	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443144	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+DQ380147	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443206	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574038	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443169	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443235	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995323	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+EU574037	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574057	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443133	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443146	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443223	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443256	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995331	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+KX096938	Shivanna,V., McDowell,C., Wilson,W.C. and Richt,J.A.
+
+JQ820488	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+DQ375427	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380162	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ375399	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380159	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF311370	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+GQ443210	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995342	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587125	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JF311372	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+JN995293	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM586955	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+GQ443150	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574042	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JF311371	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+GQ443158	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587112	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443233	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995325	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587115	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443208	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JF326192	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JQ068144	Potgieter,C.A., Smith,S.J. and Kortekaas,J.
+
+DQ375423	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380166	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF326199	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF311374	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+DQ375421	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380164	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GU135853	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+HM587062	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JN995313	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443200	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+DQ380156	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GU135861	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+EU574081	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+KF648855	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+JN995303	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443241	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443156	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JQ820477	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+JF326198	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995312	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JF326186	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF784388	Potgieter,C.A., Wright,I. and Kortekaas,J.
+
+JN995308	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443193	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JF326188	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ375428	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995299	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ380158	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF784386	Potgieter,C.A., Wright,I. and Kortekaas,J.
+
+JN995306	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443209	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+DQ380201	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GU135843	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+KU978779	Rossi,S.L., Forrester,N.L., Ksiazek,T., Guerbois,M., Lin,D., Hari,K. and Weaver,S.C.
+GU372973	Gerrard,S.R. and Piper,M.E.
+
+EU574047	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM586973	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HM587097	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JN995279	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JF311380	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+GQ443247	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JF326203	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ375429	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EU312123	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+GQ443191	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995304	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JF311373	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+EU574019	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574086	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ375430	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF326187	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF326204	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995309	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443214	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JF326189	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM586974	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HM587090	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JF784387	Potgieter,C.A., Wright,I. and Kortekaas,J.
+
+JN995307	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995252	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+KX632066	Zhang,J.W., Shi,Y.X., Zheng,K., Huang,J.C., Xu,X., Li,X.B., Dai,J., Li,S.F., Zhong,Y.Q., Li,L.Q., Lu,H.R., Ma,J.M., Li,W.S., Yu,J.Y., Hong,R.S., Lu,L.H., Ji,J.K., Peng,S.Q., Mai,G.Q., Huang,Y.T., Qiu,J.J., Li,J.D., Liu,X., Chen,Y.Y., Zhang,X.G., Zhang,J.M., Jin,X., Huang,J.H., Sun,F.J., Wang,Z. and Zhu,Z.Y.
+EU574051	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JF326202	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443135	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443140	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574015	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574060	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574029	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JF311368	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+EU312116	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+GQ443246	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587114	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU574018	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ375424	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380161	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995283	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587051	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443205	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443213	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995341	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995255	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995270	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GU953292	Samy,S.M., Atwa,M.A., Yousif,A.A. and Shalaby,M.A.
+
+DQ375422	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380167	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF326194	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443203	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443243	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443198	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443244	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574050	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JF326200	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443134	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+DQ380145	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443141	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU312110	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+DQ380196	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443197	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574013	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574066	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM587096	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+DQ375425	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380160	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995302	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995278	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JQ820476	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+GQ443188	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443221	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443254	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443204	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995333	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995253	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JF311369	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+KU978774	Rossi,S.L., Forrester,N.L., Ksiazek,T., Guerbois,M., Lin,D., Hari,K. and Weaver,S.C.
+DQ380191	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF311375	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+JN995305	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443231	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995327	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587122	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JN995317	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587120	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JN995336	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ380148	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995315	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ380199	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF326193	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995319	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ380195	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380149	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995291	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443184	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574078	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM587084	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+KF648860	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+KF648857	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+JF326190	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ375432	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995286	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JQ840745	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+GQ443139	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+KF648851	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+EU574054	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JN995287	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GQ443130	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+KX096940	Shivanna,V., McDowell,C., Wilson,W.C. and Richt,J.A.
+
+JN995344	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995274	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+KF648858	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+JN995282	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995311	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587124	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443185	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JF311379	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+GQ443138	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443145	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU312111	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574012	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574067	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ380220	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF311378	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+JQ820475	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+DQ375420	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380165	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443201	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+DQ375395	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380157	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GU135860	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+EU574058	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574053	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574044	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+KF717592	Faye,O., Ba,H., Ba,Y., Freire,C., Faye,O., Ndiaye,O., Elqady,I., Zanotto,P. and Alpha,A.
+GQ443128	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443194	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443248	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+DQ375403	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443195	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443249	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995300	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+GU135845	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+DQ380153	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GU135846	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+KU978780	Rossi,S.L., Forrester,N.L., Ksiazek,T., Guerbois,M., Lin,D., Hari,K. and Weaver,S.C.
+GQ443168	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443234	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995322	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+EU574039	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443149	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443137	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443142	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+KF717589	Faye,O., Ba,H., Ba,Y., Freire,C., Faye,O., Ndiaye,O., Elqady,I., Zanotto,P. and Alpha,A.
+JN995281	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995271	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM586979	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+JN995273	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ375397	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380155	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF326195	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+KX503062	Eiden,M., Isselmou,K., El Mamy,B.O., Rissmann,M., Groschup,M.H. and Doumbia,B.
+GU135844	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+EU574041	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574073	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM587123	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JN995316	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM586959	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+JN995289	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+EU312117	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574014	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574061	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+KX503063	Eiden,M., Isselmou,K., El Mamy,B.O., Rissmann,M., Doumbia,B. and Groschup,M.H.
+GQ443192	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574055	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574052	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443222	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995330	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+KF648859	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+EU574045	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU709748	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU312119	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574085	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574076	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574059	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443148	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574030	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443161	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EU574040	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+JN995334	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JN995288	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587053	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM586958	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+JQ068142	Potgieter,C.A., Smith,S.J. and Kortekaas,J.
+
+HM587111	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JN995285	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+JQ840746	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+JN995298	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ375433	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF326191	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443230	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995326	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+KF717590	Faye,O., Ba,H., Ba,Y., Freire,C., Faye,O., Ndiaye,O., Elqady,I., Zanotto,P. and Alpha,A.
+KF648854	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+GU135863	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+GQ443154	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JF311383	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+HM587089	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+DQ380202	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM587085	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+KF648861	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+GQ443202	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587086	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443224	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443251	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+KF648862	Sow,A., Faye,O., Ba,Y., Ba,H., Diallo,D., Faye,O., Loucoubar,C., Boushab,M., Barry,Y., Diallo,M. and Sall,A.A.
+JF311391	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+GU135862	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+HM587056	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU574023	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574074	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM587088	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM587087	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU574079	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574077	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM587082	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM586976	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HM587092	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM587081	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM587110	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JQ820472	Aradaib,I.E., Erickson,B.R., Khristova,M.L., Karsany,M.E., Elageb,R.M., Elkhidir,I.M., Elbashir,M.I. and Nichol,S.T.
+GQ443215	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+EF467178	Lee,J.S., Groebner,J.L., Richardson,J.H., Sang,R.C. and O'Guinn,M.L.
+EU574071	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM587083	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HM586957	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+AJ504998	Bouloy,M.
+
+EU574028	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM587113	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+HQ009512	Grobbekaar,A., Paweska,J. and Swanepoel,R.
+
+JF311377	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+EU574070	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+HM586977	Nderitu,L.M., Lee,J.S., Omolo,J., Omulo,S., O'Guinn,M.L., Hightower,A., Mosha,F., Mohamed,M., Munyua,P., Nganga,Z., Hiett,K., Seal,B., Feikin,D.R., Breiman,R.F. and Njenga,K.
+HM587093	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+EU574020	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574016	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574063	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ380198	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380211	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EU312138	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+GQ443157	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443217	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GU135848	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+KU978773	Rossi,S.L., Forrester,N.L., Ksiazek,T., Guerbois,M., Lin,D., Hari,K. and Weaver,S.C.
+EU312118	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574084	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ380194	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+KU978777	Rossi,S.L., Forrester,N.L., Ksiazek,T., Guerbois,M., Lin,D., Hari,K. and Weaver,S.C.
+KC935380	Monaco,F., Pinoni,C., Cosseddu,G., Khaiseb,S., Calistri,P., Molini,U., Bishi,A., Conte,A., Scacchia,M. and Lelli,R.
+DQ380210	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380190	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+EU312139	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+JN995318	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587042	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JF311392	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+GQ443183	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587058	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JF311388	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+JN995338	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+DQ380206	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF311386	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+GU135857	Reynes,J.-M., Elissa,N. and Ratovonjato,J.
+
+EU574072	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+GQ443181	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443228	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+HM587043	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+GQ443182	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JF311393	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+JF326197	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+HM587055	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+DQ380169	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380222	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF311385	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+EU574087	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EF467177	Lee,J.S., Groebner,J.L., Richardson,J.H., Sang,R.C. and O'Guinn,M.L.
+HM587080	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+DQ380192	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+KF717593	Faye,O., Ba,H., Ba,Y., Freire,C., Faye,O., Ndiaye,O., Elqady,I., Zanotto,P. and Alpha,A.
+GQ443126	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JN995294	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+EU312114	Aitken,S.C., Paweska,J.T. and Grobbelaar,A.
+
+EU574017	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574062	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+EU574075	Bird,B.H., Githinji,J.W., Macharia,J.M., Ksiazek,T.G. and Nichol,S.T.
+DQ380151	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+AJ504997	Bouloy,M.
+
+DQ380205	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380143	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JF326196	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443190	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+JQ068143	Potgieter,C.A., Smith,S.J. and Kortekaas,J.
+
+GQ443226	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443253	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+DQ380144	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+DQ380221	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+GQ443227	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+GQ443252	Reynes,J.-M., Andriamandimby,S.F. and Razainirina,J.
+
+KU978776	Rossi,S.L., Forrester,N.L., Ksiazek,T., Guerbois,M., Lin,D., Hari,K. and Weaver,S.C.
+DQ380168	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+JN995335	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+HM587054	Grobbelaar,A., Swanepoel,R. and Paweska,J.T.
+
+JF309200	Bird,B.H., Githinji,J.W., Macharia,J.M., Kasiiti,J.L., Muriithi,R.M., Gacheru,S.G., Musaa,J.O., Towner,J.S., Reeder,S.A., Oliver,J.B., Stevens,T.L., Erickson,B.R., Morgan,L.T., Khristova,M.L., Hartman,A.L., Comer,J.A., Rollin,P.E., Ksiazek,T.G.
+JF311384	Carroll,S.A., Reynes,J.-M., Khristova,M.L., Andriamandimby,S.F., Rollin,P.E. and Nichol,S.T.
+JN995301	Soumare,P.O.L., Freire,C.M., Faye,O., Diallo,M., Zanotto,P.M.A. and Sall,A.
+NC_014397	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+KX944803	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944804	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944805	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944806	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944807	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944808	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944809	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944810	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944811	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944812	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944813	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944814	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944815	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944816	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944817	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944866	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944867	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944868	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944869	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944870	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944871	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944818	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944819	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944820	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944821	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944822	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944823	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944824	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944825	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944826	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944827	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944828	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944829	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944830	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944831	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944832	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944833	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944834	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944835	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944836	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944837	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944838	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944839	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944840	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944841	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944842	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944843	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944844	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944845	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944846	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944847	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944848	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944849	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944850	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944851	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944852	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944853	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944854	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944855	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944856	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944857	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944858	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944859	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944860	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944861	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944862	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944863	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944864	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+KX944865	Maluleke,M.R., Phosiwa,M., Lubisi,B.A., van Schalkwyk,A., Michuki,G., Kegakilwe,P.S., Kemp,S.J. and Majiwa,P.A.O.
+MG897464	Lagare,A., Fall,G., Ibrahim,A., Ousmane,S., Sadio,B., Louis
+
+MG897465	Lagare,A., Fall,G., Ibrahim,A., Ousmane,S., Sadio,B., Louis
+
+MG897466	Lagare,A., Fall,G., Ibrahim,A., Ousmane,S., Sadio,B., Louis
+
+MG897467	Lagare,A., Fall,G., Ibrahim,A., Ousmane,S., Sadio,B., Louis
+
+NC_014396	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+MH910494	Abouhattab,E., Ali,M.H., Atwa,M., AbulMagd,D., Saudy,A.F. and Mousa,S.A.
+MG953423	Patel,K., Whitmer,S.L.M., Zufan,S.E., Davis,W., Klena,J.D., Nichol,S.T. and Stroeher,U.
+MG953418	Patel,K., Whitmer,S.L.M., Zufan,S.E., Davis,W., Klena,J.D., Nichol,S.T. and Stroeher,U.
+MG953420	Patel,K., Whitmer,S.L.M., Zufan,S.E., Davis,W., Klena,J.D., Nichol,S.T. and Stroeher,U.
+MG953421	Patel,K., Whitmer,S.L.M., Zufan,S.E., Davis,W., Klena,J.D., Nichol,S.T. and Stroeher,U.
+MG953422	Patel,K., Whitmer,S.L.M., Zufan,S.E., Davis,W., Klena,J.D., Nichol,S.T. and Stroeher,U.
+MG953424	Patel,K., Whitmer,S.L.M., Zufan,S.E., Davis,W., Klena,J.D., Nichol,S.T. and Stroeher,U.
+MG953426	Patel,K., Whitmer,S.L.M., Zufan,S.E., Davis,W., Klena,J.D., Nichol,S.T. and Stroeher,U.
+MH753237	Jansen van Vuren,P., Kgaladi,J., Msimang,V. and Paweska,J.T.
+
+MH753238	Jansen van Vuren,P., Kgaladi,J., Msimang,V. and Paweska,J.T.
+
+MH753239	Jansen van Vuren,P., Kgaladi,J., Msimang,V. and Paweska,J.T.
+
+MH753240	Jansen van Vuren,P., Kgaladi,J., Msimang,V. and Paweska,J.T.
+
+MH753241	Jansen van Vuren,P., Kgaladi,J., Msimang,V. and Paweska,J.T.
+
+MH753234	Jansen van Vuren,P., Kgaladi,J., Msimang,V. and Paweska,J.T.
+
+MH753235	Jansen van Vuren,P., Kgaladi,J., Msimang,V. and Paweska,J.T.
+
+MH753236	Jansen van Vuren,P., Kgaladi,J., Msimang,V. and Paweska,J.T.
+
+MH753233	Jansen van Vuren,P., Kgaladi,J., Msimang,V. and Paweska,J.T.
+
+NC_014395	Bird,B.H., Khristova,M.L. and Nichol,S.T.
+
+MH880841	Barthelemy,K., Piorkowski,G. and de Lamballerie,X.
+
+MH880842	Barthelemy,K., Piorkowski,G. and de Lamballerie,X.
+
+MG972978	Whitmer,S.L.M., Zufan,S.E., Stroeher,U., Nichol,S.T. and Klena,J.D.
+
+MG972979	Whitmer,S.L.M., Zufan,S.E., Stroeher,U., Nichol,S.T. and Klena,J.D.
+
+MG972980	Whitmer,S.L.M., Zufan,S.E., Stroeher,U., Nichol,S.T. and Klena,J.D.
+
+MG972975	Whitmer,S.L.M., Zufan,S.E., Stroeher,U., Nichol,S.T. and Klena,J.D.
+
+MG972976	Whitmer,S.L.M., Zufan,S.E., Stroeher,U., Nichol,S.T. and Klena,J.D.
+
+MG972977	Whitmer,S.L.M., Zufan,S.E., Stroeher,U., Nichol,S.T. and Klena,J.D.
+
+MG972972	Whitmer,S.L.M., Zufan,S.E., Stroeher,U., Nichol,S.T. and Klena,J.D.
+
+MG972973	Whitmer,S.L.M., Zufan,S.E., Stroeher,U., Nichol,S.T. and Klena,J.D.
+
+MG972974	Whitmer,S.L.M., Zufan,S.E., Stroeher,U., Nichol,S.T. and Klena,J.D.
+
+MK134834	van Schalkwyk,A. and Romito,M.
+
+MK134835	van Schalkwyk,A. and Romito,M.
+
+MK134836	van Schalkwyk,A. and Romito,M.
+
+MK134837	van Schalkwyk,A. and Romito,M.
+
+MK134838	van Schalkwyk,A. and Romito,M.
+
+MK134839	van Schalkwyk,A. and Romito,M.
+
+MK134840	van Schalkwyk,A. and Romito,M.
+
+MK134841	van Schalkwyk,A. and Romito,M.
+
+MK134842	van Schalkwyk,A. and Romito,M.
+
+MG953419	Patel,K., Whitmer,S.L.M., Zufan,S.E., Davis,W., Klena,J.D., Nichol,S.T. and Stroeher,U.
+MG953425	Patel,K., Whitmer,S.L.M., Zufan,S.E., Davis,W., Klena,J.D., Nichol,S.T. and Stroeher,U.
+MN395695	Sultan,S. and Ahmed,S.A.H.
+
+MN395696	Sultan,S. and Ahmed,S.A.H.
+
+MN395697	Sultan,S. and Ahmed,S.A.H.
+
+MW717937	Said,O.S., Hussein,H.A. and El-Deeb,A.H.
+
+MW717938	Said,O.S., Hussein,H.A. and El-Deeb,A.H.
+
+MW816826	Sayed,O., Hussein,H. and El-Deeb,A.
+
+MW816827	Sayed,O., Hussein,H. and El-Deeb,A.
+
+KY126665	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126666	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126667	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126668	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126669	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126670	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126671	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126672	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126673	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126674	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126675	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126676	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126677	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126678	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126679	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126680	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126681	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126682	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126683	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126684	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126685	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126686	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126687	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126688	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126689	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126690	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126691	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126692	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126693	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126694	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126695	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126696	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126697	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126698	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126699	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126700	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126701	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126702	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126703	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126704	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126705	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126706	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126707	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126708	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126709	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126710	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126711	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126712	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126713	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY126714	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196487	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196488	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196489	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196490	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196491	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196492	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196493	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196494	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196495	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196496	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196497	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196498	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196499	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196500	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196501	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196502	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196503	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196504	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196505	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196506	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196507	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196508	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196509	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196510	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+KY196511	Grobbelaar,A.A., Weyer,J., Janse van Vuuren,P. and Paweska,J.T.
+
+MZ513005	Bob,N.S., Diagne,M.M., Faye,M., Ndione,M.H.D., Diallo,A., Diop,M., Loucoubar,C., Faye,O., Fall,G. and Faye,O.
+MZ513006	Bob,N.S., Diagne,M.M., Faye,M., Ndione,M.H.D., Diallo,A., Diop,M., Loucoubar,C., Faye,O., Fall,G. and Faye,O.
+MZ513007	Bob,N.S., Diagne,M.M., Faye,M., Ndione,M.H.D., Diallo,A., Diop,M., Loucoubar,C., Faye,O., Fall,G. and Faye,O.
+MZ513008	Bob,N.S., Diagne,M.M., Faye,M., Ndione,M.H.D., Diallo,A., Diop,M., Loucoubar,C., Faye,O., Fall,G. and Faye,O.
+MZ513009	Bob,N.S., Diagne,M.M., Faye,M., Ndione,M.H.D., Diallo,A., Diop,M., Loucoubar,C., Faye,O., Fall,G. and Faye,O.
+MZ513010	Bob,N.S., Diagne,M.M., Faye,M., Ndione,M.H.D., Diallo,A., Diop,M., Loucoubar,C., Faye,O., Fall,G. and Faye,O.
+MZ513011	Bob,N.S., Diagne,M.M., Faye,M., Ndione,M.H.D., Diallo,A., Diop,M., Loucoubar,C., Faye,O., Fall,G. and Faye,O.
+MZ513012	Bob,N.S., Diagne,M.M., Faye,M., Ndione,M.H.D., Diallo,A., Diop,M., Loucoubar,C., Faye,O., Fall,G. and Faye,O.
+MZ513013	Bob,N.S., Diagne,M.M., Faye,M., Ndione,M.H.D., Diallo,A., Diop,M., Loucoubar,C., Faye,O., Fall,G. and Faye,O.
+MW183126	van den Bergh,C., Thompson,P.N., Swanepoel,R., Almeida,A.P.G., Paweska,J.T., Janse van Vuuren,P., Wilson,W.C., Allen,K. and Venter,E.H.
+MT749360	Sultan,S. and Ahmed,S.
+
+MT749361	Sultan,S. and Ahmed,S.
+

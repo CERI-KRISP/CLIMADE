@@ -1,0 +1,313 @@
+AY603338	Bae,H.-G., Drosten,C., Emmerich,P., Colebunders,R., Hantson,P., Pest,S., Schmitz,H., Warnat,M.-A. and Niedrig,M.
+AY968065	von Lindern,J.J., Aroner,S., Davis,C.T. and Barrett,A.D.T.
+
+AY968064	von Lindern,J.J., Aroner,S., Davis,C.T. and Barrett,A.D.T.
+
+DQ235229	von Lindern,J.J., Aroner,S., Barrett,N., Wicker,J.A., Davis,C.T.
+
+AF369694	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+DQ068260	Onyango,C.O., Masiga,D.K., Muluvi,G.M. and Kariuki,N.M.
+
+AF369678	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369691	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AY960147	Korimbocus,J. and Zeller,H.
+
+AY839632	Korimbocus,J. and Zeller,H.
+
+GU073161	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AF369679	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369672	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AY960148	Korimbocus,J. and Zeller,H.
+
+AY960138	Korimbocus,J. and Zeller,H.
+
+AY960139	Korimbocus,J. and Zeller,H.
+
+AY960145	Korimbocus,J. and Zeller,H.
+
+AY839634	Korimbocus,J. and Zeller,H.
+
+AY839633	Korimbocus,J. and Zeller,H.
+
+AY839635	Korimbocus,J. and Zeller,H.
+
+GU073147	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AF369673	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AY960142	Korimbocus,J. and Zeller,H.
+
+AY960144	Korimbocus,J. and Zeller,H.
+
+AY960137	Korimbocus,J. and Zeller,H.
+
+AY839631	Korimbocus,J. and Zeller,H.
+
+GU073159	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073146	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073152	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AY960143	Korimbocus,J. and Zeller,H.
+
+AY541410	Bryant,J.E., Vasconcelos,P.F., Ryndbrand,R.C., Higgs,S.T., Mutebi,J.-P. and Barrett,A.D.
+AY960146	Korimbocus,J. and Zeller,H.
+
+AY960140	Korimbocus,J. and Zeller,H.
+
+AY502949	ter Meulen,J., Sakho,M. and Koivogui,L.
+
+AF369696	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369683	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+JX898878	Stock,N.K.
+
+GU073142	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AF369697	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AY839636	Korimbocus,J. and Zeller,H.
+
+DQ068264	Onyango,C.O., Masiga,D.K., Muluvi,G.M. and Kariuki,N.M.
+
+GU073158	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AY960141	Korimbocus,J. and Zeller,H.
+
+GU073165	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AY690832	Onyango,C.O., Grobbelaar,A.A., Gibson,G.V., Sang,R.C., Sow,A., Swanepoel,R. and Burt,F.J.
+AF369690	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+JN620362	McMullan,L.K., Frace,M., Sammons,S.A., Shoemaker,T., Balinandi,S., Wamala,J.F., Lutwama,J., Downing,R.G., Stroeher,U., MacNeil,A. and Nichol,S.T.
+JX012102	Beck,A.S., Guzman,H., Li,L., Ellis,B., Tesh,R.B. and Barrett,A.D.T.
+
+JX898871	Stock,N.K.
+
+JX898880	Stock,N.K.
+
+JX012101	Beck,A.S., Guzman,H., Li,L., Ellis,B., Tesh,R.B. and Barrett,A.D.T.
+
+JX898873	Stock,N.K.
+
+JX012097	Beck,A.S., Guzman,H., Li,L., Ellis,B., Tesh,R.B. and Barrett,A.D.T.
+
+JX898872	Stock,N.K.
+
+JX898876	Stock,N.K.
+
+JX898874	Stock,N.K.
+
+JX012099	Beck,A.S., Guzman,H., Li,L., Ellis,B., Tesh,R.B. and Barrett,A.D.T.
+
+JX012098	Beck,A.S., Guzman,H., Li,L., Ellis,B., Tesh,R.B. and Barrett,A.D.T.
+
+JX898868	Stock,N.K.
+
+JX012100	Beck,A.S., Guzman,H., Li,L., Ellis,B., Tesh,R.B. and Barrett,A.D.T.
+
+JX898875	Stock,N.K.
+
+JX898881	Stock,N.K.
+
+JX898879	Stock,N.K.
+
+JX898869	Stock,N.K.
+
+JX012103	Beck,A.S., Guzman,H., Li,L., Ellis,B., Tesh,R.B. and Barrett,A.D.T.
+
+JX898870	Stock,N.K.
+
+JX898877	Stock,N.K.
+
+DQ068263	Onyango,C.O., Masiga,D.K., Muluvi,G.M. and Kariuki,N.M.
+
+AF369689	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+GU073131	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073143	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073133	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073149	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073160	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073150	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073139	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AF369669	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369695	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369674	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369681	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369670	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+GU073166	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073134	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+DQ068262	Onyango,C.O., Masiga,D.K., Muluvi,G.M. and Kariuki,N.M.
+
+GU073136	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073153	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073135	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AF369680	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369688	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+GU073155	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073157	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073162	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AY541445	Bryant,J.E., Vasconcelos,P.F., Ryndbrand,R.C., Higgs,S.T., Mutebi,J.-P. and Barrett,A.D.
+GU073137	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073145	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AF369693	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+GU073130	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AY690833	Onyango,C.O., Grobbelaar,A.A., Gibson,G.V., Sang,R.C., Sow,A., Swanepoel,R. and Burt,F.J.
+AY541402	Bryant,J.E., Vasconcelos,P.F., Ryndbrand,R.C., Higgs,S.T., Mutebi,J.-P. and Barrett,A.D.
+GU073141	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AF369671	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369687	Mutebi,J.-P., Wang,H. and Li,L.
+
+GU073148	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AF369682	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+GU073154	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073156	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AF369685	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369675	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+GU073151	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AY541408	Bryant,J.E., Vasconcelos,P.F., Ryndbrand,R.C., Higgs,S.T., Mutebi,J.-P. and Barrett,A.D.
+AY541440	Bryant,J.E., Vasconcelos,P.F., Ryndbrand,R.C., Higgs,S.T., Mutebi,J.-P. and Barrett,A.D.
+DQ068261	Onyango,C.O., Masiga,D.K., Muluvi,G.M. and Kariuki,N.M.
+
+AF369684	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AY541407	Bryant,J.E., Vasconcelos,P.F., Ryndbrand,R.C., Higgs,S.T., Mutebi,J.-P. and Barrett,A.D.
+AF369677	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AF369676	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+AY541411	Bryant,J.E., Vasconcelos,P.F., Ryndbrand,R.C., Higgs,S.T., Mutebi,J.-P. and Barrett,A.D.
+GU073140	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AY690831	Onyango,C.O., Grobbelaar,A.A., Gibson,G.V., Sang,R.C., Sow,A., Swanepoel,R. and Burt,F.J.
+GU073144	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073163	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AF369692	Mutebi,J.-P., Wang,H. and Barrett,A.D.T.
+
+GU073132	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073164	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+GU073138	Sall,A.A., Faye,O., Diallo,M., Firth,C., Kitchen,A. and Holmes,E.C.
+
+AY541409	Bryant,J.E., Vasconcelos,P.F., Ryndbrand,R.C., Higgs,S.T., Mutebi,J.-P. and Barrett,A.D.
+KX257258	Grobbelaar,A.A., Weyer,J., Moolla,N., Jansen van Vuren,P., Moises,F. and Paweska,J.T.
+KU978764	Guerbois,M., Forrester,N.L., Rossi,S.L., Lin,D., Hari,K. and Weaver,S.C.
+KU978763	Guerbois,M., Forrester,N.L., Rossi,S.L., Lin,D., Hari,K. and Weaver,S.C.
+KX982182	Simon-Loriere,E., Sall,A.A., Sakuntabhai,A., Faye,O. and Prot,M.
+
+MF004383	Baronti,C., Piorkowski,G., Touret,F., Gilles,M., Pastorino,B., Querat,G., Placidi,C., Priet,S. and de Lamballerie,X.
+MF405338	Klitting,R., Aubry,F., Piorkowski,G. and de Lamballerie,X.
+
+MG757496	Hughes,H.R., Kayiwa,J., Mosell,E.C., Lutwama,J. and Lambert,A.J.
+
+MG757497	Hughes,H.R., Kayiwa,J., Mosell,E.C., Lutwama,J. and Lambert,A.J.
+
+MG757498	Hughes,H.R., Kayiwa,J., Mosell,E.C., Lutwama,J. and Lambert,A.J.
+
+MZ595203	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MH444798	Beck,A.S., Wood,T.G., Widen,S.G., Thompson,J. and Barrett,A.D.T.
+
+MK457700	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Siddle,K.J., Mehta,S.N., Folarin,O.A., Sabeti,P.C.
+MK457701	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Siddle,K.J., Mehta,S.N., Folarin,O.A., Sabeti,P.C.
+MK457702	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Siddle,K.J., Mehta,S.N., Folarin,O.A., Sabeti,P.C.
+MK457703	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Siddle,K.J., Mehta,S.N., Folarin,O.A., Sabeti,P.C.
+MK060080	Amraoui,F., Pain,A., Piorkowski,G., Vazeille,M., Couto-Lima,D., de
+
+MZ595204	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MN211304	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN211305	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN211306	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN211307	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN211308	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN211309	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN211310	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN211311	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN211301	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN211302	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN211303	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., MacInnis,B.L., Folarin,O.A., Schaffner,S.F., Ogbaini-Emovon,E., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MN958078	Ajogbasile,F.V., Oguzie,J.U., Oluniyi,P.E., Eromon,P.E., Uwanibe,J.N., Mehta,S.B., Siddle,K.J., Odia,I., Winnicki,S.M., Akpede,N., Akpede,G., Okogbenin,S., Ogbaini-Emovon,E., MacInnis,B.L., Folarin,O.A., Modjarrad,K., Schaffner,S.F., Tomori,O., Ihekweazu,C., Sabeti,P.C. and Happi,C.T.
+MW508339	Saidu,J.Z., Eghafona,N.N., Tatfeng,M.Y. and Okojie,R.O.
+
+MW508340	Saidu,J.Z., Eghafona,N.N., Tatfeng,M.Y. and Okojie,R.O.
+
+MW508341	Saidu,J.Z., Eghafona,N.N., Tatfeng,M.Y. and Okojie,R.O.
+
+MW508342	Saidu,J.Z., Eghafona,N.N., Tatfeng,M.Y. and Okojie,R.O.
+
+MW508343	Saidu,J.Z., Eghafona,N.N., Tatfeng,M.Y. and Okojie,R.O.
+
+MW508344	Saidu,J.Z., Eghafona,N.N., Tatfeng,M.Y. and Okojie,R.O.
+
+MZ595182	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595183	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595184	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595185	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595186	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595187	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595188	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595189	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595190	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595191	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595192	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595193	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595194	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595195	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595196	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595197	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595198	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ595199	Diagne,M.M., Ndione,M.H.D., Gaye,A., Barry,M.A., Diallo,D., Diallo,A., Mwakibete,L.L., Diop,M., Ndiaye,E.H., Ahyong,V., Diouf,B., Mhamadi,M., Diagne,C.T., Danfakha,F., Diop,B., Faye,O., Loucoubar,C., Fall,G., Tato,C.M., Sall,A.A., Weaver,S.C., Diallo,M.
+MZ285906	Strother,A.E., Dunster,L.M., Widen,S.G., Thompson,J.K. and Barrett,A.D.
+ON245434	Oguzie,J.U. and Oluniyi,P.E.
+
+ON245435	Oguzie,J.U. and Oluniyi,P.E.
+
+OM066735	Bonney,J.H.K., Sanders,T., Pratt,D., Agbodzi,B., Laryea,D., Kumordjie,S., Attiku,K., Mawuli,G., Yeboah,C., Odoom,J., Kubio,C.
+OM066736	Bonney,J.H.K., Sanders,T., Pratt,D., Agbodzi,B., Laryea,D., Kumordjie,S., Attiku,K., Mawuli,G., Yeboah,C., Odoom,J., Kubio,C.
+OM066737	Bonney,J.H.K., Sanders,T., Pratt,D., Agbodzi,B., Laryea,D., Kumordjie,S., Attiku,K., Mawuli,G., Yeboah,C., Odoom,J., Kubio,C.
