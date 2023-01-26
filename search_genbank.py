@@ -24,15 +24,12 @@ def search(query):
                             term=query)
     results = Entrez.read(handle)
     return results
-
-
+    
 accession_file=pd.read_csv('yellowfever_Africa_all_genbank_accessions.txt', sep=' ', header=None, names=["IDs"])
-
 nuc_uids=accession_file['IDs'].tolist()    
 #print(nuc_uids)    
 
 Entrez.email = 'houriiyah.tegally@gmail.com'
-    
 records = []
 for nuc_uid in nuc_uids:
 	
@@ -40,7 +37,6 @@ for nuc_uid in nuc_uids:
 	gb_record=handle.readlines()
 	#records.append(SeqIO.read(handle, 'genbank'))
 	#print(gb_record)
-	
 	authors_found=0
 	more_authors_needed=0
 	last_char=''
@@ -74,7 +70,6 @@ for nuc_uid in nuc_uids:
 		if re.search("TITLE", line):
 			paper=line.rsplit('  ')[2]
 			#print(paper)
-			
 	print(nuc_uid+"\t"+authors)
 			
 		

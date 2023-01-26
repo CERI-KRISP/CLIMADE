@@ -43,7 +43,7 @@ zika_genome_length<-11000 #approximately
 rvf_genome_length<-12000 #approximately
 yellowfever_genome_length<-10000 #approximately
 
-genome<-chik_genome_length
+genome<-rvf_genome_length
 
 #Read whichever virus genomic data by just navigating the file location below
 chik_data<-read_excel("VIPR_chikungunya/148117604240-Results.xls")
@@ -52,7 +52,7 @@ zika_data<-read_excel("VIPR_zika/28966063777-Results.xls")
 riftvalley_data<-read_excel("VIPR_riftvalleyfever/40460646054-Results.xls")
 yellowfever_data<-read_excel("VIPR_yellowfever/704972492015-Results.xls")
 
-genomic_data<-chik_data
+genomic_data<-riftvalley_data
 genomic_data$seq_length<-as.numeric(genomic_data$`Sequence Length`)
 genomic_data$seq_coverage<-as.numeric(genomic_data$seq_length)/genome
 genomic_data$cov_categories <- cut(genomic_data$seq_coverage, breaks = c(-0.5,0,0.5, 0.9, Inf),
@@ -165,7 +165,9 @@ africa_denvtypes2
 
 
 plot_grid(global_distribution,africa_distribution,africa_denvtypes,africa_denvtypes2,africa_genotypes,africa_genotypes2,ncol=2)
-ggsave("Dengue_summary_figures.pdf", width = 40, height = 30, units = "cm")
+plot_grid(global_distribution,africa_distribution,africa_genotypes,africa_genotypes2,ncol=2)
+
+#ggsave("RVF_summary_figures.pdf", width = 30, height = 20, units = "cm")
 
 genomic_data$Continent<-unlist(genomic_data$Continent)
 genomic_data$Continent_Region<-unlist(genomic_data$Continent_Region)
@@ -173,5 +175,5 @@ genomic_data_africa<-subset(genomic_data,Continent=='Africa')
 genomic_data_above_50<-subset(genomic_data,seq_coverage>=0.5)
 genomic_data_above_50_africa<-subset(genomic_data_above_50,Continent=='Africa')
 
-write.csv(x=genomic_data_africa,file='chikungunya_Africa_genomes_all.csv')
-write.csv(x=genomic_data_above_50,file='chikungunya_global_genomes_above50.csv')
+write.csv(x=genomic_data_africa,file='rvf_Africa_genomes_all.csv')
+write.csv(x=genomic_data_above_50,file='rvf_global_genomes_above50.csv')
