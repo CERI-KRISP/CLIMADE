@@ -1,4 +1,4 @@
-# CLIMADE_Africa
+# CLIMADE - Africa
 
 Climate-Amplified Diseases and Epidemics (CLIMADE) - Africa
 https://climade.health/
